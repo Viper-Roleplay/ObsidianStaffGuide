@@ -1,0 +1,20 @@
+# Ignore Obsidian system files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+
+# Ignore specific cache files
+.obsidian/cache
+.obsidian/plugins.json
+
+# Ignore third-party plugin settings and data (individual settings and cached data for plugins)
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache
+
+# Optional: Ignore custom themes and CSS snippets
+.obsidian/snippets/*
+.obsidian/themes/*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
