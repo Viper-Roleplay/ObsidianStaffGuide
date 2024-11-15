@@ -1,7 +1,5 @@
 **Golden Rule
 
-  
-
 Staff are here to voluntarily make the server better and more enjoyable for all, rather than for their own enjoyment.
 
   
