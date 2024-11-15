@@ -1,8 +1,8 @@
 
 ## Developers 
 Bobby 
-CiCi
-Heath
+Cici - Lead Developer
+Heath - Graphic design
 Cowboy Frank 
 Liam
 Scot
