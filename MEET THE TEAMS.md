@@ -6,7 +6,8 @@ Heath
 Cowboy Frank 
 Liam
 Scot
-
+Alter - modeler
+xora
 ## FINI Team
 Brook
 Jackson
@@ -15,8 +16,10 @@ Jackson
 Creamy Frank 
 Tyler 
 Phil
+Rob
 ## Gun Team 
 Brian
+Q
 
 ## Clothing Team
 Merlin
