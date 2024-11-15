@@ -2,9 +2,13 @@
 
 MEET THE  TEAM:
 
-Creamy Frank: Car modelling, 
-Tyler: Liveries, tuning 
+Creamy Frank: Car modelling, promos 
+Tyler: Liveries, tuning, PD/EMS cars
 Phil: tuning 
+Dev Loc: 1of1 approval 
+
+
+
 
 
 
