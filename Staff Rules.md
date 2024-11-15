@@ -9,8 +9,6 @@ Staff are pretty much regular players and do not get any special treatment when 
 
 Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules said this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
 
-  
-
 No staff member is exempt from these policies or the server's rules, whether it's the Head Admins who set these policies or newly hired Discord mods. Do not be a hypocrite.
 
 There is no concrete "strike" system for staff, but staff are subject to demotion, removal, or miscellaneous sanctions if they break these policies, with severities dependent on context and if the intention was good-natured - we look most harshly upon staff abusing rank for personal gain.
