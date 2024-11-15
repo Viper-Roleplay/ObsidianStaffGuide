@@ -37,3 +37,75 @@ https://viperroleplay.tebex.io
 1 Small Fishing Boat of Your Choice 
 1 Luxury Boat of Your Choice
 1 Avisa Submarine - {avisa} 1 SeaDoo GTI 215 Jetski and Trailer {seadoogti215} & {seadoohauler}
+
+### Tony's Pack
+[Tony's-Package-Tebex](https://viperroleplay.tebex.io/category/tonys-package)
+[Tony Package Teaser](https://www.youtube.com/watch?v=P-hRTzNoWrY)
+**CARS:** 
+GODz300HC 
+
+**BIKE:** 
+HBLGXSR1K01 
+
+**GUNS:** 
+weapon_tonyvandal 
+weapon_tonyap
+
+## PETS
+### Tier 1 Pets
+
+Hen - [hen] 
+Pig - [pig] 
+Rabbit - [rabbit] 
+Cat - [cat] 
+Pug - [pug] 
+Highland Terrier - [highlandterrier] 
+Golden Retriever - [retriever] 
+Poodle - [poodle] 
+Rottweiler - [rottweiler] 
+Husky - [husky]
+
+## VIP
+
+### Storage
+====================================================== **T1 w/o VIP**
+
+- 2k weight stash w/ 50 slots
+- 1k max Material Storage
+
+**T1 w/ VIP Bonus**
+
+- 3k weight stash w/ 50 slots
+- 2k max Material Storage
+
+----------------------------------------------------------------- **T2 w/o VIP**
+
+- 3k weight stash w/ 100 slots
+- 2k max Material Storage
+
+**T2 w/ VIP Bonus**
+
+- 4k weight stash w/ 100 slots
+- 3k max Material Storage
+
+----------------------------------------------------------------- **T3 w/o VIP**
+
+- 4k weight stash w/ 150 slots
+- 3k max Material Storage
+
+**T3 w/ VIP Bonus**
+
+- 5k weight stash w/ 150 slots
+- 4k max Material Storage
+
+======================================================= **Disclaimer about storages if you no longer subscribe to VIP**
+
+- If you shall not want to subscribe another month of your VIP you will lose 1k weight off BOTH stashes (storage & material)
+- Every warehouse above T1-T3 has the storage weights listed accordingly
+
+**Use /warehouseadmin to open staff menu to GIVE or REMOVE warehouse**
+
+- To give warehouse please use CSN and select storage size (PLEASE select correct size)
+- Theres 3 seperate warehouse locations (Small, Medium or Large)
+
+If anyone with VIP currently owns a warehouse already, _you will need to REMOVE their current warehouse_ - make sure you're on the real estate house job & press F7 and delete the warehouse and give them a new warehouse ACCORDINGLY depending on their VIP status **PLEASE DO NOT DELETE THE WAREHOUSE WITHOUT HELPING THEM TRANSFER ITEMS IN STASH** VIP PRO - T1 VIP ELITE - T2 **ALL WAREHOUSES COME WITH PUBLIC PARKING**
