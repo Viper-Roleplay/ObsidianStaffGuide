@@ -30,7 +30,7 @@ This means if you are involved with a conflict, stop, sit back, and ask your pee
 
 There's a bit of nuance to this sometimes - If someone is flooding/spamming a channel it doesn't matter if you're an unrelated party or the person they were feuding with, while if you are upset someone wronged you in city, you should definitely ask for someone else.
 
-  
+Ask questions if you're not sure about a ticket or how to handle something. This Guide will tell you who to go to and what most people handle within staff.
 
 If you are in city, handling tickets or doing some kind of work for the server, YOU MUST BE IN STAFF VC. Being on staff vc lets the Higher Ups know you are working on something and active. Failing to be in staff vc will be seen as failing to show up.
 
@@ -54,6 +54,3 @@ Loa Date: *12/24 - 12/25*
 Loa Time: *12/24 8:00am-12:00 ; 12/25 All day long*
 Loa Reason (Optional): *Going to go touch grass with the family*
 
-  
-
-Ask questions if you're not sure about a ticket or how to handle something. This Guide will tell you who to go to and what most people handle within staff.**
