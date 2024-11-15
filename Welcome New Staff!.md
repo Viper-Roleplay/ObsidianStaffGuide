@@ -1,5 +1,5 @@
 
-# Step 1 - Take a fat fucking dab
+# Step 1 - Take a fat fucking dab, drink or whatever
 
 ![image](https://media1.tenor.com/m/T3B8_TrlzRsAAAAd/bobbywip-dab.gif)
 *We are not responsible for any mental or physical anguish caused within these walls.*
