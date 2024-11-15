@@ -1,32 +1,41 @@
 
-Developers 
+## Developers 
+Bobby 
+CiCi
+Heath
+Cowboy Frank 
+Liam
+Scot
+
+## Car Team
+Creamy Frank 
+
+## Gun Team 
+Brian
+
+## Clothing Team
+Merlin
+Kenzo
 
 
+## Real-estate  Team 
+Dev Loc
 
-Car Team
+## Event Team 
+Frosty 
+Draco
 
-
-Gun Team 
-
-
-Clothing Team
-
-
-
-Relisted Team 
+## Business Team
 
 
-Event Team 
+## Gang Team 
 
 
-Business Team
+## EMS Command
 
 
-EMS Command
+## PD Command 
 
 
-PD Command 
-
-
-DOJ Command 
+## DOJ Command 
 
