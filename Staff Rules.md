@@ -12,8 +12,6 @@ No staff member is exempt from these policies or the server's rules, whether it'
 
 There is no concrete "strike" system for staff, but staff are subject to demotion, removal, or miscellaneous sanctions if they break these policies, with severities dependent on context and if the intention was good-natured - we look most harshly upon staff abusing rank for personal gain.
 
-  
-
 We expect staff to have a mild-moderate amount of professionalism in interactions, but also strive to be able to tell when something shouldn't be taken with the utmost seriousness.
 
 Meaning you are expected to take things seriously when needed but should not sound like emotionless machines when doing so. Find the balance to know when things are serious and when they are not.
