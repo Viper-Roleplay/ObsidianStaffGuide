@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 
+=======
+> [!tip]
+> You are now a chosen one
+
+## Fresh Powers
+
+When becoming a moderator you have access to a whole new arsenal of powers, commands, and abilities to use to help your peers amongst staff, and the city as we take steps to advance together. Being given powers is a big step up from staff support with many more responsibilities to tackle.
+Now that you have powers, this does not mean you can go ahead and use them all in front of civilians and other players! Always use your powers under the assumption you have eyes on you as there could be players around the corner or even people streaming the server; we do not want to leave a bad look to those who are just now finding our city. If you have to enter noclip or use TX noclip, run around the corner, get some distance, hide behind a building and do it out of sight. If you have to spawn a car, you can go into a parking lot and spawn it almost as if its coming out of a garage to keep the realism in city.
+
+## Use of Powers
+As you will remember from becoming staff support, you are out of the economy! You should not be spawning money, items, weapons, and giving vehicles to friends and players. Changing civilian's ped models is prohibited. On the other hand, if you collectively do a roleplay scene such as a bank or a heist with players, providing the items to them on an occasion may be deemed ok, but if you still have further questions don't be afraid to ask we won't bite. It is very important for us to not spawn in mass amounts of money, or weapons with the same serial numbers, this can happen for example through the use of 919, and spawning a gun for example and have the "Amount" greater than one. Staying away from duped serial numbers helps our fellow team members find duped weapons with ease, the same applies to keeping our bank accounts relatively low.
+>>>>>>> origin/development
