@@ -16,7 +16,9 @@ Jackson
 Creamy Frank 
 Tyler 
 Phil
+Dev Loc
 Rob
+Owen
 ## #Gun 
 Brian
 Q
