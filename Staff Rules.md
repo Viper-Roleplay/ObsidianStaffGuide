@@ -2,8 +2,7 @@
 
 Staff are here to voluntarily make the server better and more enjoyable for all, rather than for their own enjoyment.
 
-  
-  
+
 
 Staff are pretty much regular players and do not get any special treatment when it comes to rule enforcement. As staff we should be setting an example for others to follow.
 
