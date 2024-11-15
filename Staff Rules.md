@@ -1,16 +1,16 @@
-**Golden Rule
+**Golden Rule**
 
-Staff are here to voluntarily make the server better and more enjoyable for all, rather than for their own enjoyment.
+Staff are here to voluntarily make the server better and more enjoyable for all, rather than only for their own enjoyment.
 
 
 
 Staff are pretty much regular players and do not get any special treatment when it comes to rule enforcement. As staff we should be setting an example for others to follow.
 
-Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules said this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
+Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules say this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
 
 No staff member is exempt from these policies or the server's rules, whether it's the Head Admins who set these policies or newly hired Discord mods. Do not be a hypocrite.
 
-There is no concrete "strike" system for staff, but staff are subject to demotion, removal, or miscellaneous sanctions if they break these policies, with severities dependent on context and if the intention was good-natured - we look most harshly upon staff abusing rank for personal gain.
+There is no concrete "strike" system for staff, but staff are subject to demotion, removal, or miscellaneous if they break these policies, with consequences dependent on context and if the intention was good-natured, we look most harshly upon staff abusing rank for personal gain.
 
 We expect staff to have a mild-moderate amount of professionalism in interactions, but also strive to be able to tell when something shouldn't be taken with the utmost seriousness.
 
