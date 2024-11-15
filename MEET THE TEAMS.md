@@ -1,5 +1,5 @@
 
-## Developers 
+## #Developers 
 Bobby 
 Cici - Lead Developer
 Heath - Graphic design
@@ -8,56 +8,55 @@ Liam
 Scot
 Alter - modeler
 xora
-## FINI Team
+## #FINI
 Brook
 Jackson
 
-## Car Team
+## #Car 
 Creamy Frank 
 Tyler 
 Phil
 Rob
-## Gun Team 
+## #Gun 
 Brian
 Q
 
-## Clothing Team
-Merlin
+## #Clothing
+Merlin - Can push clothing, cars 
 Kenzo
 Jed
 Ploo
-## Real-estate  Team 
+## #Real-estate   
 Dev Loc
 
-## Event Team 
+## #Event  
 Frosty 
 Draco
 Ploo
 Scarlett
 
-## Business Team
+## #Business 
 Liz
 Sugar titties
 Serenity 
 
-## Gang Team 
+## #Gang  
 Maurice
 Ploo
 
-## EMS Command
-Jams 
+## #EMS
+Jams  
 Dee
 Brian 
 Noah 
 
-## PD Command 
+## #PD  
 Jay 
 Yuki
 Kenny 
 Bobby 
 Merlin
 Scoot
-
-## DOJ Command 
-Amber
+## #DOJ 
+Amber 
 Jed
