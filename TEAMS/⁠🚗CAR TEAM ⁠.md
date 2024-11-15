@@ -12,7 +12,7 @@
 
 
 
-### Car Team Notes Channels
+## Car Team Notes Channels
 
 These are the places where car related notes will go - specific tasks for specific people can still go in their respective notes, but to keep us all organized we have made 4 channels to separate vehicle notes by tasks. Each of these channels have Templates posted and pinned in them to give you an idea of what's easiest for us to work with. Car team will react to notes when they are working on them, and delete the message once the update is sent to Ready to Go. So you will always know what point each vehicle is at in its journey and what updates to give the players.
 
