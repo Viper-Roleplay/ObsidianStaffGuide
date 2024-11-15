@@ -6,7 +6,7 @@ Staff are here to voluntarily make the server better and more enjoyable for all,
 
 Staff are pretty much regular players and do not get any special treatment when it comes to rule enforcement. As staff we should be setting an example for others to follow.
 
-Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules said this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
+Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules say this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
 
 No staff member is exempt from these policies or the server's rules, whether it's the Head Admins who set these policies or newly hired Discord mods. Do not be a hypocrite.
 
