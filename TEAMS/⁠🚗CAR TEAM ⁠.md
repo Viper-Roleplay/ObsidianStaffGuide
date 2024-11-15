@@ -27,7 +27,7 @@ These are the places where car related notes will go - specific tasks for specif
 ## Documents
 **These documents are great when they are kept update be aware they my not be** 
 
-**Viper Cars 3.5** (will need to request access to view document
+**Viper Cars 3.5** (will need to request access to view document)
 📄[Car List](https://docs.google.com/spreadsheets/d/1aGEXNdthEbhkp2c9moKgeXXi7ap4piU4jjAl2vHqiFs/edit?usp=sharing)
   
 **Promo cars**
