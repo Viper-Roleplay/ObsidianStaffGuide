@@ -16,19 +16,15 @@ We expect staff to have a mild-moderate amount of professionalism in interaction
 
 Meaning you are expected to take things seriously when needed but should not sound like emotionless machines when doing so. Find the balance to know when things are serious and when they are not.
 
-  
 
-Bias
+**Bias**
 
-  
 
 If you are too heated to handle a ticket/issue in an unbiased way, hand it off to other staff if possible. We have >30 staff members, this shouldn't be hard in most cases.
 
+***Staff must never handle their own tickets.***
+
 We expect staff to be mature enough to realize when a personal issue will cause bias in judgment as well.
-
-  
-
-Staff must never handle their own tickets.
 
 This means if you are involved with a conflict, stop, sit back, and ask your peers to handle it for you.
 
@@ -54,11 +50,9 @@ Loa Reason (Optional):
 
 Example:
 
-Loa Date: 12/24 - 12/25
-
-Loa Time: 12/24 8:00am-12:00 ; 12/25 All day long
-
-Loa Reason (Optional): Going to go touch grass with the family
+Loa Date: *12/24 - 12/25*
+Loa Time: *12/24 8:00am-12:00 ; 12/25 All day long*
+Loa Reason (Optional): *Going to go touch grass with the family*
 
   
 
