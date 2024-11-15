@@ -1,13 +1,13 @@
 
 ## #Developers 
-Bobby 
+Bobby - Dev cordenator
 Cici - Lead Developer
 Heath - Graphic design
 Cowboy Frank 
 Liam
 Scot
 Alter - modeler
-xora
+xora - 
 ## #FINI
 Brook
 Jackson
@@ -39,7 +39,7 @@ Scarlett
 Liz
 Sugar titties
 Serenity 
-
+Liv
 ## #Gang  
 Maurice
 Ploo
