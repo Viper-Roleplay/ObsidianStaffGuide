@@ -56,6 +56,7 @@ Merlin -
 - **Push Cars**
 - **Push Weapons**
 - **PD State Command**
+- **Clothing approvals**
 Kenzo
 - **One of the lead clothing devs**
 - **Custom Clothing**
