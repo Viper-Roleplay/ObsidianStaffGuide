@@ -3,11 +3,13 @@
 Bobby - Dev cordenator
 Cici - Lead Developer
 Heath - Graphic design
-Cowboy Frank 
-Liam
-Scot
+Cowboy Frank -
+**EMS DEV**
+Liam -
+Scot -
 Alter - modeler
 xora - 
+Ash - 
 ## #FINI
 Brook
 Jackson
@@ -24,7 +26,14 @@ Brian
 Q
 
 ## #Clothing
-Merlin - Can push clothing, cars 
+Merlin - 
+- **One of the lead clothing devs**
+- **Can restart main and set**
+- **Custom Chains**
+- **Push Clothing**
+- **Push Cars**
+- **Push Weapons**
+- **PD State Command**
 Kenzo
 Jed
 Kenny
