@@ -65,6 +65,19 @@ Poodle - [poodle]
 Rottweiler - [rottweiler] 
 Husky - [husky]
 
+### Tier 2 pets 
+Bull Terrier - /highlandterrier 
+French Bulldog - /ft-pbulldog - /ft-pbulldog2 
+Akita Inu - /akita_inu 
+Yorkshire Terrier - /yorkshire 
+Jack Russel - /russel 
+Dalmatian - /dalmatian 
+Dane - /dane 
+Doberman - /doberman 
+Pitbull - /ft-pitbull - /ft-pitbull2 
+COD Ghosts: Riley Puppy German Shepherd - ft-pshepherd (VIP Pro or Elite only) 
+Puppy Husky - ft-phusky (VIP Pro or Elite only)
+Puppy retreiver - ft-pretriever (VIP Pro or Elite only)
 ## VIP
 
 ### Storage
