@@ -46,7 +46,8 @@ Phil
 
 Dev Loc
 
-Rob
+Rob -
+- **Tunes cars**
 
 Owen
 
@@ -87,9 +88,6 @@ Ploo
 ## #Real-estate   
 Dev Loc
 
-Kenny 
-
-Serenity 
 
 Amber
 
