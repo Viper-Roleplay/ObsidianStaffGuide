@@ -50,7 +50,7 @@ Q
 ## #Clothing
 Merlin - 
 - **One of the lead clothing devs**
-- **Can restart main and set**
+- **Can restart main**
 - **Custom Chains/Clothing**
 - **Push Clothing**
 - **Push Cars**
@@ -102,7 +102,9 @@ Maurice
 Ploo
 
 ## #EMS
-Jams  
+Jams -
+- EMS Chief
+- Makes Docs  
 
 Dee
 
