@@ -78,7 +78,9 @@ Kenzo
 Jed
 
 Kenny
+- **Makes EMS and PD clothing**
 - **PD State Command**
+- **Can sell houses**
 Ploo
 
 
@@ -92,20 +94,27 @@ Serenity
 Amber
 
 ## #Event  
-Frosty 
+Frosty -
+- **Head of Event**
 
-Draco
+Draco -
+- **Asst head of Event 
 
-Ploo
-
-Scarlett
+Scarlett -
+- **Helper of Event**
+- **Makes posters**
 
 ## #Business 
 Liz
 
 Sugar titties
 
-Serenity 
+Serenity -
+- **Business team Asst**
+- **Car team tickets**
+- **Can sell houses**
+
+  
 
 Liv
 ## #Gang  
