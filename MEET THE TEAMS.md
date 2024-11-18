@@ -4,6 +4,7 @@
 Dev coordinator, 
 configs master, 
 economy man
+- **PD State Command**
 **Cici -** 
 Lead Developer, all power, like odin
 **Heath -** 
@@ -16,7 +17,8 @@ better than cici at js, FS FS
 **Liam -**
 Business Focused, Can push anything, restart server, delay restart
 **Scott -** 
-Config beast, he helps bobby with a lot of stuff, recently got main push ability
+Config beast, he helps bobby with a lot of stuff, recently got main push ability|
+- **PD State Command**
 **Alter -**
 modeler, maintainer of logs website, autism in person
 **Xora -** 
@@ -32,7 +34,13 @@ Dev tickets? helps scott with configs
 ## #Car 
 **Creamy Frank** 
 
-Tyler 
+Tyler -
+- anything that has to do with cars 
+- Push Cars and admincar 
+- cars car model edits addeding things to car ans removing thing 
+- the maker of vipers pd and ems cars 
+- 2 Command of car team i feel like lol 
+- **PD State Command**
 
 Phil
 
@@ -43,9 +51,14 @@ Rob
 Owen
 
 ## #Gun
-Brian
-
-Q
+Q -
+- **Head Gun Team**
+- **Design Guns**
+- **Tunes Guns**
+- **Push Guns**
+- **Fix Guns**
+- **StreetCred**
+- **3D Clothing**
 
 ## #Clothing
 Merlin - 
@@ -65,7 +78,7 @@ Kenzo
 Jed
 
 Kenny
-
+- **PD State Command**
 Ploo
 
 
@@ -103,10 +116,11 @@ Ploo
 
 ## #EMS
 Jams -
-- EMS Chief
-- Makes Docs  
+- **EMS Chief**
+- **Makes Docs**
 
-Dee
+Dee -
+- **EMS Medical Director (second in command)**
 
 Brian 
 
@@ -114,17 +128,11 @@ Noah
 
 
 ## #PD  
-Jay 
+Jay -
+- **PD Commissioner** 
 
-Yuki
-
-Kenny
-
-Bobby 
-
-Merlin
-
-Scoot
+Yuki - 
+- **PD Asst, Commissioner**
 ## #DOJ 
 Amber 
 
