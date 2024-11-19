@@ -28,10 +28,14 @@ Heist focused, can also do all kinds of shit
 - **Dev Helper**
 
 ## #FINI
-**Brook-**
+### **Brook**
+- **Unban from anticheat
+- **Whitelist to anticheat
+- **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people , )
+- **Helps fini
+- **Pc checker
+### **Jackson**
 
-
-**Jackson-**
 
 ## #Car 
 **Creamy Frank** 
@@ -54,7 +58,25 @@ Rob -
 Owen
 
 ## #Gun
-Q -
+### Brian 
+- **Anything gun (push/fix/break/refix)
+- **Upload to tiktok / yt / mastadon (fivempage) ect socials
+- **Pretty much anything discord besides bots (can edit them typically)
+- **EMS HC (Number 3)
+- **Staff apps
+- **Tattoos
+
+#### **if needed**
+- **can do clothes
+- **can do photoshop things (resize / recolor /more autisitc the artistic ) make item images
+- **can tune cars
+- **can whitelist to anticheat
+- **can unban from anticheat
+- **can optamize car
+- **can push car / admincar
+- **can ban
+
+### Q 
 - **Head Gun Team**
 - **Design Guns**
 - **Tunes Guns**
@@ -64,7 +86,7 @@ Q -
 - **3D Clothing**
 
 ## #Clothing
-Merlin - 
+### Merlin - 
 - **One of the lead clothing devs**
 - **Can restart main**
 - **Custom Chains/Clothing**
@@ -73,14 +95,11 @@ Merlin -
 - **Push Weapons**
 - **PD State Command**
 - **Clothing approvals**
-Kenzo
+### Kenzo
 - **One of the lead clothing devs**
 - **Custom Clothing**
 - **Cinematography** 
-
-Jed
-
-Kenny
+### Kenny
 - **Makes EMS and PD clothing**
 - **PD State Command**
 - **Can sell houses**
@@ -88,17 +107,14 @@ Kenny
 ## #Real-estate   
 Dev Loc
 
-
-Amber
-
 ## #Event  
-Frosty -
+### Frosty 
 - **Head of Event**
 
-Draco -
+### Draco 
 - **Asst head of Event 
 
-Scarlett -
+### Scarlett 
 - **Helper of Event**
 - **Makes posters**
 
@@ -107,20 +123,17 @@ Liz
 
 Sugar titties
 
-Serenity -
+### Serenity 
 - **Business team Asst**
 - **Car team tickets**
 - **Can sell houses**
 
-Liv -
-
-
 ## #Gang  
-Maurice -
+### Maurice 
 - **Lead gang coordinator**
 
 
-Ploo - 
+### Ploo
 -  **Second Gang coordinator**
 - **Custom clothing**
 - **Push clothing
@@ -128,25 +141,33 @@ Ploo -
 - **Tune guns
 - **Event helper
 ## #EMS 
-Jams -
+### Jams 
 - **EMS Chief**
 - **Makes Docs**
-
-Dee -
+### Dee 
 - **EMS Medical Director (second in command)**
 
-Brian 
-
-Noah 
+### Noah 
+- **SAR head of EMS
+- **Photoshop 
+- **Can make item images
 
 
 ## #PD  
-Jay -
+### Jay 
 - **PD Commissioner** 
 
-Yuki - 
+### Yuki  
 - **PD Asst, Commissioner**
 ## #DOJ 
-Amber 
-
-Jed
+### Amber 
+- **DOJ (send any thing doj ticket/issues)
+- **Can sell houses 
+- **Very good at helping new people
+  
+  
+  
+### Jed
+- **Judge 
+- **Custom clothing
+- **Photoshop
