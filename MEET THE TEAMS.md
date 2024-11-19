@@ -24,7 +24,9 @@ modeler, maintainer of logs website, autism in person
 **Xora -** 
 Heist focused, can also do all kinds of shit
 **Ash -** 
-Dev tickets? helps scott with configs
+- **Dev Tickets**
+- **Dev Helper**
+
 ## #FINI
 **Brook-**
 
@@ -82,8 +84,6 @@ Kenny
 - **Makes EMS and PD clothing**
 - **PD State Command**
 - **Can sell houses**
-Ploo
-
 
 ## #Real-estate   
 Dev Loc
@@ -112,16 +112,22 @@ Serenity -
 - **Car team tickets**
 - **Can sell houses**
 
-  
+Liv -
 
-Liv
+
 ## #Gang  
-Maurice
+Maurice -
+- **Lead gang coordinator**
 
 
-Ploo
-
-## #EMS
+Ploo - 
+-  **Second Gang coordinator**
+- **Custom clothing**
+- **Push clothing
+- **Push guns
+- **Tune guns
+- **Event helper
+## #EMS 
 Jams -
 - **EMS Chief**
 - **Makes Docs**
