@@ -14,7 +14,7 @@ This video shows what to do and not to do:
 ## Documents
 **These documents are great when they are kept update be aware they my not be** 
 
-List of Guns in City (need promotions to view)
+List of Guns in City (need to request to view)
 📄[Gun List](https://docs.google.com/spreadsheets/d/15JkKmJk6Sam6lrTnulOtXZOgUyR8s-0uaadx72aSw30/edit?usp=sharing)
 
 Promo Guns

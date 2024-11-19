@@ -1,29 +1,43 @@
 
 ## #Developers 
-**Bobby -**
-Dev coordinator, 
+### Bobby
+- Dev coordinator
 configs master, 
 economy man
 - **PD State Command**
-**Cici -** 
-Lead Developer, all power, like odin
-**Heath -** 
-Graphic design, ui & ux designer, another man in the autism army
-**Cowboy Frank -** 
-**EMS DEV** , 
+### Cici
+  - **Lead Developer
+  - **Restart and delay restart for main
+  - 
+
+  - **IF NO ONE ELES CAN HELP U AND CITY IS BURNING DM 
+### Heath
+ - **Graphic design
+ - **Good to ask questions on most staff topic's
+ - ui & ux designer, another man in the autism army
+### Cowboy Frank
+- **EMS DEV**
 can push to main, 
 knows how to do ui's and bots, 
 better than cici at js, FS FS
-**Liam -**
-Business Focused, Can push anything, restart server, delay restart
-**Scott -** 
-Config beast, he helps bobby with a lot of stuff, recently got main push ability|
+### Liam
+- **Business Dev
+- **Push to main
+- **Restart and delay restart for main
+
+### Scott 
+- **Config
+- **Bobby's asst 
+- **Push for main
 - **PD State Command**
-**Alter -**
-modeler, maintainer of logs website, autism in person
-**Xora -** 
-Heist focused, can also do all kinds of shit
-**Ash -** 
+### Alter 
+- **Modelling
+- **Updates log website
+
+### Xora
+- **Main Heist dev 
+- ?can also do all kinds of shit
+### Ash
 - **Dev Tickets**
 - **Dev Helper**
 
@@ -35,12 +49,15 @@ Heist focused, can also do all kinds of shit
 - **Helps fini
 - **Pc checker
 ### **Jackson**
-
+- 
 
 ## #Car 
-**Creamy Frank** 
-
-Tyler -
+### **Creamy Frank** 
+- **Weekly promo
+- **Models cars (can add models , change things about the car , add PD/EMS lights and gear, props/guns, change the tires )
+- **Admin car / push cars to main server
+- **Can tune if needed 
+### Tyler 
 - anything that has to do with cars 
 - Push Cars and admincar 
 - cars car model edits addeding things to car ans removing thing 
@@ -48,14 +65,14 @@ Tyler -
 - 2 Command of car team i feel like lol 
 - **PD State Command**
 
-Phil
+### Phil
 
-Dev Loc
-
-Rob -
+### Rob
 - **Tunes cars**
 
-Owen
+### Bryan 
+- **Tunes cars 
+
 
 ## #Gun
 ### Brian 
