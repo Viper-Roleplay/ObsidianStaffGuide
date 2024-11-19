@@ -45,7 +45,7 @@ better than cici at js, FS FS
 ### **Brook**
 - **Unban from anticheat
 - **Whitelist to anticheat
-- **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people , )
+- **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people)
 - **Helps fini
 - **Pc checker
 ### **Jackson**
