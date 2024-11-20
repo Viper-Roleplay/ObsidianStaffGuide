@@ -48,7 +48,7 @@ better than cici at js, FS FS
 - **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people)
 - **Helps fini
 - **Pc checker
-### **Jackson**
+### Jackson**
 - 
 
 ## #Car 
@@ -136,7 +136,7 @@ Dev Loc
 - **Makes posters**
 
 ## #Business 
-Liz
+### Liz
 
 ### Sugar titties
 
@@ -144,7 +144,6 @@ Liz
 - **Business team Asst**
 - **Car team tickets**
 - **Can sell houses**
-
 ## #Gang  
 ### Maurice 
 - **Lead gang coordinator**

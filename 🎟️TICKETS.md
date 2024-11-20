@@ -9,7 +9,7 @@ Any Questions on tickets and your unsure who to send it too or what you can do, 
 When a Tebex payment ticket comes through, the first thing you will want to do is rename the ticket accordingly. Following the name, we will need to confirm the payment by getting the customer to send a screenshot of their receipt and or typing out the tebex code. Now that the payment has been confirmed for the purchase, you can follow through with getting the player's purchase taken care of. Each purchase is different leaving you with a variety of options to move forward.
 
 #### House Purchases
-[](https://discord.com/channels/876558619779412078/939305578054942720)
+[𝙋𝙖𝙮𝙢𝙚𝙣𝙩-𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙](https://discord.com/channels/876558619779412078/939305578054942720)
 When the player has purchased a house, we will want to ask the player for both a screenshot of the location/outside of the house; as well as what their desired interior will be after linking the video showcase from the real estate channel. Keep in mind its best to give the player a friendly reminder about having the interior be similar to the corresponding property for realism and roleplay purposes. Now that we have that important information, it will aid the real estate team in their handling of the ticket. We can now @Real Estate Team in the ticket, or personally dm the ticket link to a member of the real estate team.
 
 #### GC-Coins/Cases
