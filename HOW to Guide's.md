@@ -8,7 +8,7 @@ Here is a video on how to use the Announcement Menu
 https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=7d7af74d-b864-4a63-b115-e92071d0ed5d
 
 
-## Liam's clean up guild
+ ## Liam's clean up guild
 
 Easiest things to do would be:
 
@@ -40,4 +40,4 @@ if it's been more than 8 months since you've built or received your computer tha
 
 Any of the programs can be easily found via google. Get in the habit of using google as that is how I've learned all I know about computers!
 
-Best of luck to you
+Best of luck to you001

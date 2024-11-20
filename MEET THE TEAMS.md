@@ -14,12 +14,15 @@ economy man
 ### Heath
  - **Graphic design
  - **Good to ask questions on most staff topic's
- - ui & ux designer, another man in the autism army
+ - **Can do UI and UX
+
 ### Cowboy Frank
 - **EMS DEV**
-can push to main, 
-knows how to do ui's and bots, 
-better than cici at js, FS FS
+- **Restart and delay restart for main
+- **Can push to main
+- **Can allow access 
+-  Can do UI
+- **Java Script 
 ### Liam
 - **Business Dev
 - **Push to main
@@ -36,7 +39,7 @@ better than cici at js, FS FS
 
 ### Xora
 - **Main Heist dev 
-- ?can also do all kinds of shit
+- **Gang dev  
 ### Ash
 - **Dev Tickets**
 - **Dev Helper**
