@@ -69,7 +69,7 @@ economy man
 - **PD State Command**
 
 ### Phil
-
+- 
 ### Rob
 - **Tunes cars**
 
@@ -125,7 +125,10 @@ economy man
 - **Can sell houses**
 
 ## #Real-estate   
-Dev Loc
+### Dev Loc
+- **Head of real-estate 
+- **Confirms 1of1's
+- **Tunes cars
 
 ## #Event  
 ### Frosty 
@@ -140,9 +143,9 @@ Dev Loc
 
 ## #Business 
 ### Liz
-
+?
 ### Sugar titties
-
+?
 ### Serenity 
 - **Business team Asst**
 - **Car team tickets**
