@@ -26,7 +26,9 @@ Claiming Battlepasses is just as straight forward!
    2) Click "Battlepass"
       3) Click "Unlock Premium"
          4) Paste the Tebex code in the pop-up box
-Similarly we have a command that will link a tutorial, you can use it in the ticket by doing **!claimbp** 
+Similarly we have a command that will link a tutorial, you can use it in the ticket by doing **!claimbp**
+
+ 
 
 
 
