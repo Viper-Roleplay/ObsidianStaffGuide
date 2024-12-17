@@ -164,9 +164,6 @@ economy man
 - **Tune guns
 - **Event helper
 ## #EMS 
-### Jams 
-- **EMS Chief**
-- **Makes Docs**
 ### Dee 
 - **EMS Medical Director (second in command)**
 
