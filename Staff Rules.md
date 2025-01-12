@@ -2,8 +2,6 @@
 
 Staff are here to voluntarily make the server better and more enjoyable for all, rather than only for their own enjoyment.
 
-
-
 Staff are pretty much regular players and do not get any special treatment when it comes to rule enforcement. As staff we should be setting an example for others to follow.
 
 Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules say this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
