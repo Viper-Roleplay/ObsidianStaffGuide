@@ -45,7 +45,7 @@ economy man
 - **Dev Helper**
 
 ## #FINI
-### **Brook**
+### **Brooke**
 - **Unban from anticheat
 - **Whitelist to anticheat
 - **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people)
@@ -97,15 +97,6 @@ economy man
 - **can push car / admincar
 - **can ban
 
-### Q 
-- **Head Gun Team**
-- **Design Guns**
-- **Tunes Guns**
-- **Push Guns**
-- **Fix Guns**
-- **StreetCred**
-- **3D Clothing**
-
 ## #Clothing
 ### Merlin - 
 - **One of the lead clothing devs**
@@ -144,7 +135,7 @@ economy man
 
 ## #Business 
 ### Liz
-?
+- Business Team
 ### Sugar titties
 ?
 ### Serenity 
@@ -180,14 +171,4 @@ economy man
 ### Yuki  
 - **PD Asst, Commissioner**
 ## #DOJ 
-### Amber 
-- **DOJ (send any thing doj ticket/issues)
-- **Can sell houses 
-- **Very good at helping new people
-  
-  
-  
-### Jed
-- **Judge 
-- **Custom clothing
-- **Photoshop
+
