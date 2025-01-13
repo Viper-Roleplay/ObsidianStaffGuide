@@ -2,8 +2,8 @@
 ## #Developers 
 ### Bobby
 - Dev coordinator
-configs master, 
-economy man
+- configs master
+- economy man
 - **PD State Command**
 ### Cici
   - **Lead Developer
