@@ -3,7 +3,7 @@
 
 ## MEET THE  TEAM:
 Brian
-Q
+
 
 ## Gun Duping
 When giving guns please be aware to give them out one at a time other wise there serial numbers dupucate 
