@@ -51,8 +51,10 @@
 - **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people)
 - **Helps fini
 - **Pc checker
-### Jackson**
-- 
+### Jaxson**
+- **Unban from anticheat
+- **Whitelist to anticheat
+- **Anticheat (can fix modders spawning certain vehicles / objects , the anticheat false banning people)
 
 ## #Car 
 ### **Creamy Frank** 
@@ -73,9 +75,6 @@
 - 
 ### Rob
 - **Tunes cars**
-
-### Bryan 
-- **Tunes cars 
 
 
 ## #Gun

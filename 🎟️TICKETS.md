@@ -28,6 +28,11 @@ Claiming Battlepasses is just as straight forward!
          4) Paste the Tebex code in the pop-up box
 Similarly we have a command that will link a tutorial, you can use it in the ticket by doing **!claimbp**
 
+
+### Anti-Cheat Ban Appeals
+When it comes to anti-cheat bans it is pretty straight forward, all that is needed is their ban license, the ticket to be renamed to *discord username*-ban-appeal, the ticket to be dragged to anti cheat bans, and putting it in the staff discord in the **Anti-Cheat-Unbans** channel
+
+
  
 
 
