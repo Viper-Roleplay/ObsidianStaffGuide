@@ -51,3 +51,5 @@ Surveillance footage = Twitch video clips (unless referring to jewelry store/gas
 Voicebox = mic settings, usually in reference to being too loud/quiet
 
 Right brain = right click (usually as advice to re-enter the game with right click after alt-tabbing to avoid punching nearby players)
+
+Meow = Merlin stupid
