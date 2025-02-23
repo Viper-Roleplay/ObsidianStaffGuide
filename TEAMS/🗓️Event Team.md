@@ -26,7 +26,7 @@ When a new event request ticket comes in, ask the following:
 2. **Time** – What time should the event take place?
 3. **Type** – What kind of event is this? _(e.g., Grand Opening, Car Show, Wedding)_
 
-🔗 Once you have this information, link the ticket to the **Event Team Ticket Channel** for further coordination.
+🔗 Once you have this information, link the ticket to the **Event Team Ticket Channel** [Discord Channel](https://discord.com/channels/948070993518288936/1166159277543674006)  for further coordination.
 
 ## 📂 **Documents**
 
