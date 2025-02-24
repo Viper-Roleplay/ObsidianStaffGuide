@@ -141,6 +141,7 @@
 - **Business team Asst**
 - **Car team tickets**
 - **Can sell houses**
+
 ## #Gang  
 ### Maurice 
 - **Lead gang coordinator**
@@ -152,7 +153,8 @@
 - **Push clothing
 - **Push guns
 - **Tune guns
-- **Event helper
+- **Event helper**
+
 ## #EMS 
 ### Dee 
 - **EMS Medical Director (second in command)**
@@ -169,5 +171,6 @@
 
 ### Yuki  
 - **PD Asst, Commissioner**
+
 ## #DOJ 
 
