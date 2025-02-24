@@ -1,6 +1,7 @@
+#Gun #GunTicket #GunTrello
 # 🌟 MEET THE TEAM 🌟
-#### 🏆 **Brian** — *Lead Gun Developer* 
-#### 🔧 **Suga** — *Gun Developer* 
+###### **Brian** — *Lead Gun Developer* 
+###### **Suga** — *Gun Developer* 
 
 --- 
 
