@@ -2,9 +2,9 @@
 
 Using logs is pretty simple once you can understand what each log is capable of doing and what can be done. Starting out as soon as you're on staff you can obtain access to logs, just message Alter for a login and he will get you situated. Once you get the login, lets say you want to find out who robbed someone.
 
-Step 1: Go into the ticket of the person who got robbed and copy their discord ID by right clicking their username
+Step 1: Go into the ticket of the person who got robbed and copy their discord ID by right clicking their username (a discord ID can be grabbed by enabling discords developer mode in the settings)
 
-Step 2: Go to the logs website and search for the tab called "Robbing" 
+Step 2: Go to the logs website and search for the tab called "Robbing" (Money that gets robbed gets separated into a different log called 'MoneyRobbed')
 
 Step 3: Click the search icon at the top right of the page and input the ticket creators discord user id and search
 
