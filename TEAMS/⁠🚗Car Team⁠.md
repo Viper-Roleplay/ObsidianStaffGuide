@@ -1,17 +1,10 @@
 #Car #CarTicket
+# 🌟 MEET THE TEAM 🌟
 
-
-
-## **MEET THE  TEAM:**
-
-**Creamy Frank:** Car modelling, promos
-**Tyler:** Liveries, tuning, PD/EMS cars
-**Phil:** tuning 
-**Dev Loc:** 1of1 approval 
-
-
-
-
+**Creamy Frank** — *Car Modeling, Promos* 
+**Tyler** — *Liveries, Tuning, PD/EMS Cars*
+**Phil** — *Tuning*
+**Dev Loc** — *1of1 Approval*
 
 
 ## Car Team Notes Channels
@@ -24,11 +17,12 @@ These are the places where car related notes will go - specific tasks for specif
 🚗・𝘽𝙧𝙤𝙠𝙚𝙣-𝘾𝙖𝙧𝙨 - Broken Cars channel is where staff can throw ticket links and a brief description of any issues with any vehicles. ⁠
 🚗・𝐌𝐨𝐝𝐞𝐥-𝐄𝐝𝐢𝐭𝐬 - Model Edits channel is where staff can throw ticket links, [spawncodes] and a brief rundown of the work that's needed for vehicles that are already in and need love, getting customized, or just need to be debadged and optimized.
 
-## Documents
-**These documents are great when they are kept update be aware they my not be** 
+--- 
+## 📄 **Documents** 
+⚠️ *These documents are useful when kept updated, but be aware they may not always be current!* 
 
-**Viper Cars 3.5** (will need to request access to view document)
-📄[Car List](https://docs.google.com/spreadsheets/d/1aGEXNdthEbhkp2c9moKgeXXi7ap4piU4jjAl2vHqiFs/edit?usp=sharing)
-  
-**Promo cars**
-📚[・𝙋𝙧𝙤𝙢𝙤-𝘾𝙖𝙧𝙨](app://obsidian.md/index.html#)
+📜 **Viper Cars 3.5** *(Access Required)* 
+📄 [Car List](https://docs.google.com/spreadsheets/d/1aGEXNdthEbhkp2c9moKgeXXi7ap4piU4jjAl2vHqiFs/edit?usp=sharing) 
+
+🚗 **Promo Cars** 
+📚 [・𝙋𝙧𝙤𝙢𝙤-𝘾𝙖𝙧𝙨](app://obsidian.md/index.html#)

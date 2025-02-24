@@ -2,23 +2,23 @@
 
 ---
 
-# 🏆 **Event Guide**
+# 🏆 **Event Guide**🏆
 
-## 🎭 **Meet the Team**
+## 🌟 **Meet the Team**🌟
 
 - **Frosty** – Event Manager
 - **Draco** – Event Team
 - **Lauren** – Event Team
 - **Lua** – Event Team
 
-## ⚙️ **Setting Up /TPTOEVENT**
+## ⚙️ **Setting Up /TPTOEVENT**⚙️
 
 To enable teleporting to an event, use the following commands:
 
 1. `/seteventon true` – Activates event mode.
 2. `/seteventcoords` – Sets the event location.
 
-## 🎟️ **Handling Event Tickets**
+## 🎟️ **Handling Event Tickets**🎟️
 
 When a new event request ticket comes in, ask the following:
 
