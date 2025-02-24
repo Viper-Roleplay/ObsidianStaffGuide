@@ -1,7 +1,6 @@
 #Event #/command #EventTicket
 
 ---
-
 # 🏆 **Event Guide**🏆
 
 ## 🌟 **Meet the Team**🌟
@@ -11,6 +10,7 @@
 - **Lauren** – Event Team
 - **Lua** – Event Team
 
+---
 ## ⚙️ **Setting Up /TPTOEVENT**⚙️
 
 To enable teleporting to an event, use the following commands:
