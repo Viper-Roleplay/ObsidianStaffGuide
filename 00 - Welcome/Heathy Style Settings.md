@@ -36,4 +36,4 @@ If you do not have the 'jetBrains' or 'Lovelo' fonts locally on your system, rea
 Extract the fonts and open them - you can `CTRL+A` select all the JetBrains stuff within the fonts/ttf directory and just right click "install all"
 
 > [!example]
-> if you are curious the 'JetBrains Mono NL' font is the same as 'JetBrains Mono' but without ligatures, for example: with ligatures `=>` becomes an actual arrow icon shown in the second pic - without ligatures would show like it does in discord: `=` `>`
+> if you are curious the 'JetBrains Mono NL' font is the same as 'JetBrains Mono' but without ligatures, for example: with ligatures `=>` becomes an actual arrow icon - without ligatures would show like it does in discord: `=` `>`
