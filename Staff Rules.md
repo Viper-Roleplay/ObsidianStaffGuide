@@ -30,7 +30,7 @@ There's a bit of nuance to this sometimes - If someone is flooding/spamming a ch
 
 Ask questions if you're not sure about a ticket or how to handle something. This Guide will tell you who to go to and what most people handle within staff.
 
-If you are in city, handling tickets or doing some kind of work for the server, YOU MUST BE IN STAFF VC. Being on staff vc lets the Higher Ups know you are working on something and active. Failing to be in staff vc will be seen as failing to show up.
+If you are in city, handling tickets or doing some kind of work for the server, YOU MUST BE IN STAFF VC. Being on staff VC lets the Higher Ups know you are working on something and active. Failing to be in staff VC will be seen as failing to show up.
 
 If you want to take a break, take the time to re-acquaint yourself, make an LOA. 
 
