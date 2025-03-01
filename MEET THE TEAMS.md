@@ -128,19 +128,19 @@
 ### Draco 
 - **Asst head of Event 
 
-### Scarlett 
-- **Helper of Event**
-- **Makes posters**
+### Lauren
+- **Event Team
+- PD High Command
+- Business Team Helper
 
+### Lua
+- **Event Team
 ## #Business 
 ### Liz
 - Business Team
-### Sugar titties
-?
-### Serenity 
-- **Business team Asst**
-- **Car team tickets**
-- **Can sell houses**
+
+### Rue
+- Business Team
 
 ## #Gang  
 ### Maurice 
@@ -154,6 +154,8 @@
 - **Push guns
 - **Tune guns
 - **Event helper**
+  
+### Suga Titties
 
 ## #EMS 
 ### Dee 
@@ -166,8 +168,6 @@
 
 
 ## #PD  
-### Jay 
-- **PD Commissioner** 
 
 ### Yuki  
 - **PD Asst, Commissioner**
