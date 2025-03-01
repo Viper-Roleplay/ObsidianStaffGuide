@@ -1,4 +1,4 @@
-
+#Developers #FINI #Car #Event #Business #Gun #Clothing #Real-estate #EMS #PD #DOJ #Gang 
 ## #Developers 
 ### Bobby
 - Dev coordinator
@@ -97,7 +97,7 @@
 - **can ban
 
 ## #Clothing
-### Merlin - 
+### Merlin 
 - **One of the lead clothing devs**
 - **Can restart main**
 - **Custom Chains/Clothing**
@@ -120,6 +120,11 @@
 - **Head of real-estate 
 - **Confirms 1of1's
 - **Tunes cars
+### Noah
+- **Real-estate Agent
+### Marc
+- **Real-estate Agent
+- Business Team Helper
 
 ## #Event  
 ### Frosty 
@@ -141,6 +146,9 @@
 
 ### Rue
 - Business Team
+### Marc
+- **Real-estate Agent
+- Business Team Helper
 
 ## #Gang  
 ### Maurice 
@@ -156,6 +164,8 @@
 - **Event helper**
   
 ### Suga Titties
+-  **Second Gang coordinator**
+-  **Gun Team**
 
 ## #EMS 
 ### Dee 
@@ -165,12 +175,17 @@
 - **SAR head of EMS
 - **Photoshop 
 - **Can make item images
+- - **Real-estate Agent**
 
 
 ## #PD  
 
 ### Yuki  
 - **PD Asst, Commissioner**
+### Kenny
+- **PD High Command**
+### Lauren
+- **PD High Command**
 
 ## #DOJ 
 
