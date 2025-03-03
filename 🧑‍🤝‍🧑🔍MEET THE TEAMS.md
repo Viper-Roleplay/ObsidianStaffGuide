@@ -106,10 +106,7 @@
 - **Push Weapons**
 - **PD State Command**
 - **Clothing approvals**
-### Kenzo
-- **One of the lead clothing devs**
-- **Custom Clothing**
-- **Cinematography** 
+
 ### Kenny
 - **Makes EMS and PD clothing**
 - **PD State Command**
@@ -124,31 +121,31 @@
 - **Real-estate Agent
 ### Marc
 - **Real-estate Agent
-- Business Team Helper
+- Business Team 
 
 ## #Event  
 ### Frosty 
-- **Head of Event**
+- **Head of Event Team**
 
 ### Draco 
-- **Asst head of Event 
+- **Asst Head of Event Team 
 
 ### Lauren
 - **Event Team
 - PD High Command
-- Business Team Helper
+- Business Team 
 
 ### Lua
 - **Event Team
 ## #Business 
 ### Liz
-- Business Team
+- Head of the Business Team
 
 ### Rue
-- Business Team
+- Head of the Business Team
 ### Marc
 - **Real-estate Agent
-- Business Team Helper
+- Business Team 
 
 ## #Gang  
 ### Maurice 
@@ -156,12 +153,11 @@
 
 
 ### Ploo
--  **Second Gang coordinator**
+- **Second Gang coordinator**
 - **Custom clothing**
 - **Push clothing
 - **Push guns
 - **Tune guns
-- **Event helper**
   
 ### Suga Titties
 -  **Second Gang coordinator**
@@ -172,16 +168,16 @@
 - **EMS Medical Director (second in command)**
 
 ### Noah 
-- **SAR head of EMS
+- EMS High Command
 - **Photoshop 
 - **Can make item images
-- - **Real-estate Agent**
+-  **Real-estate Agent**
 
 
 ## #PD  
 
 ### Yuki  
-- **PD Asst, Commissioner**
+- **PD Asst. Commissioner**
 ### Kenny
 - **PD High Command**
 ### Lauren
