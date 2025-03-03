@@ -1,4 +1,4 @@
-
+#ComputerHelp #CleanUpGuide
 ## Liam's clean up guild
 
 Easiest things to do would be:
