@@ -2,7 +2,6 @@
 # 🌟 MEET THE TEAM 🌟
 ###### **Brian** — *Lead Gun Developer* 
 ###### **Suga** — *Gun Developer* 
-
 ###### **Sam — *Gun Developer Trainee* 
 
 --- 
