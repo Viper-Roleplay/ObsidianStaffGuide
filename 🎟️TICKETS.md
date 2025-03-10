@@ -1,5 +1,4 @@
 
-
 Any Questions on tickets and your unsure who to send it too or what you can do, you can put your question and link the ticket in to [🤖・𝙏𝙞𝙘𝙠𝙚𝙩-𝙏𝙖𝙡𝙠](https://discord.com/channels/948070993518288936/1116876420287840336)|
 
 # Answering Tickets
@@ -10,7 +9,9 @@ When a Tebex payment ticket comes through, the first thing you will want to do i
 
 #### House Purchases
 [𝙋𝙖𝙮𝙢𝙚𝙣𝙩-𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙](https://discord.com/channels/876558619779412078/939305578054942720)
-When the player has purchased a house, we will want to ask the player for both a screenshot of the location/outside of the house; as well as what their desired interior will be after linking the video showcase from the real estate channel. Keep in mind its best to give the player a friendly reminder about having the interior be similar to the corresponding property for realism and roleplay purposes. Now that we have that important information, it will aid the real estate team in their handling of the ticket. We can now @Real Estate Team in the ticket, or personally dm the ticket link to a member of the real estate team.
+When the player has purchased a house, we will want to ask the player for both a screenshot of the location/outside of the house; as well as what their desired interior will be after linking the video showcase from the real estate channel ([https://www.youtube.com/watch?v=g1sLWiCE1vE](https://www.youtube.com/watch?v=g1sLWiCE1vE "https://www.youtube.com/watch?v=g1sLWiCE1vE")). Keep in mind its best to give the player a friendly reminder about having the interior be similar to the corresponding property for realism and roleplay purposes. Now that we have that important information, it will aid the real estate team in their handling of the ticket. We can now @Real Estate Team in the ticket, or personally dm the ticket link to a member of the real estate team.
+
+Each team has a guideline for starting off their tickets under their respective team guides. These are an amazing way to help out the team, you may not be able to tune cars but you can find out the car they are interested in/provide basic info on the cost of 1of1s.
 
 #### GC-Coins/Cases
 Good news! The purchases for GC-Coins and Cases are automated. To redeem the GC the player will need to 
