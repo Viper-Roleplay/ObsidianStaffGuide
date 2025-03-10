@@ -46,7 +46,11 @@
 Access to **Trello** will be granted to certain staff members.  
 📝 [Link to Trello](https://trello.com/b/CwyIDn1n/viper-roleplay)
 ## **Trello Walkthrough:**
-🎥 [Watch the Loom Walkthrough](https://www.loom.com/share/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8)
+<iframe src="https://www.loom.com/embed/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8" 
+        frameborder="0" 
+        allowfullscreen 
+        width="640" 
+        height="360"></iframe>
 
 ---
 
