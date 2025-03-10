@@ -48,34 +48,47 @@ HBLGXSR1K01
 weapon_tonyvandal 
 weapon_tonyap
 
-## PETS
-#Pets #Tier1Pet #Tier2Pet
-### Tier 1 Pets
+## **PETS**  
+#Pets #Tier1Pet #Tier2Pet  
 
-Hen - [hen] 
-Pig - [pig] 
-Rabbit - [rabbit] 
-Cat - [cat] 
-Pug - [pug] 
-Highland Terrier - [highlandterrier] 
-Golden Retriever - [retriever] 
-Poodle - [poodle] 
-Rottweiler - [rottweiler] 
-Husky - [husky]
+---
 
-### Tier 2 pets 
-Bull Terrier - /highlandterrier 
-French Bulldog - /ft-pbulldog - /ft-pbulldog2 
-Akita Inu - /akita_inu 
-Yorkshire Terrier - /yorkshire 
-Jack Russel - /russel 
-Dalmatian - /dalmatian 
-Dane - /dane 
-Doberman - /doberman 
-Pitbull - /ft-pitbull - /ft-pitbull2 
-COD Ghosts: Riley Puppy German Shepherd - ft-pshepherd (VIP Pro or Elite only) 
-Puppy Husky - ft-phusky (VIP Pro or Elite only)
-Puppy retreiver - ft-pretriever (VIP Pro or Elite only)
+### **Tier 1 Pets**
+- **Hen** -  /hen
+- **Pig** - /pig
+- **Rabbit** - /rabbit
+- **Cat** - /cat
+- **Pug** - /pug
+- **Highland Terrier** - /highlandterrier
+- **Golden Retriever** - /retriever
+- **Poodle** - /poodle
+- **Rottweiler** - /rottweiler
+- **Husky** - /husky
+
+---
+
+### **Tier 2 Pets**
+- **Bull Terrier** - `/highlandterrier`
+- **French Bulldog** - `/ft-pbulldog` or `/ft-pbulldog2`
+- **Akita Inu** - `/akita_inu`
+- **Yorkshire Terrier** - `/yorkshire`
+- **Jack Russel** - `/russel`
+- **Dalmatian** - `/dalmatian`
+- **Dane** - `/dane`
+- **Doberman** - `/doberman`
+- **Pitbull** - `/ft-pitbull` or `/ft-pitbull2`
+- **COD Ghosts: Riley Puppy German Shepherd** - `/ft-pshepherd` (VIP Pro or Elite only)
+- **Puppy Husky** - `/ft-phusky` (VIP Pro or Elite only)
+- **Puppy Retriever** - `/ft-pretriever` (VIP Pro or Elite only)
+
+---
+
+> **Note:**  
+> VIP Pro or Elite members have access to the exclusive pets:  
+> - **Riley Puppy German Shepherd**  
+> - **Puppy Husky**  
+> - **Puppy Retriever**
+
 ## **VIP Storage**
 
 ---
