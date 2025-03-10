@@ -27,10 +27,13 @@ Here you can find the MLO list that shows all active owned/available MLOs/Busine
 
 ---
 
-## Locks 
-#Locks
-Here is a video on how to use the lock script
-https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=28d09adb-6a48-4665-bb9b-9841ea39a251
+## **Locks**
+
+#Locks  
+Here is a video on how to use the lock script:  
+[Watch the video](https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=28d09adb-6a48-4665-bb9b-9841ea39a251)
+
+Locks should **ONLY** be given when needed, such as for **Mech Shops** to ensure the doors stay open while the business is open.
 
 ---
 
