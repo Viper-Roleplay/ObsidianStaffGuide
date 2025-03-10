@@ -5,16 +5,19 @@
 
 #Developers #Dev #DeveloperTicket 
 
+- **Cici**:  
+  - **Role**: **Lead Developer**, **All Powers** 
+  - **Specialty**: **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**  
+
 - **Bobby**:  
   - **Role**: Dev Coordinator, Configs Master, Economy Man, **PD State Command**  
 
-- **Cici**:  
-  - **Role**: **Lead Developer**, **Restart and Delay Restart for Main**  
-  - **Specialty**: **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**  
+- **Xora**:  
+  - **Role**: **Main Heist Dev**, **Gang Dev**  
 
 - **Heath**:  
   - **Role**: **Graphic Design**  
-  - **Specialty**: **Good to Ask Questions on Most Staff Topics**, **Can Do UI and UX**  
+  - **Specialty**: **Can Do UI and UX**, **Can answer most questions about menu related issues (pausemenu, admin menu, etc.)**
 
 - **Cowboy Frank**:  
   - **Role**: **EMS Dev**  
@@ -28,13 +31,13 @@
   - **Role**: **Config**, **Bobby's Assistant**, **Push for Main**, **PD State Command**  
 
 - **Alter**:  
-  - **Role**: **Modeling**, **Updates Log Website**  
-
-- **Xora**:  
-  - **Role**: **Main Heist Dev**, **Gang Dev**  
+  - **Role**: **Modeling**, **Discord Bot Master**, **Updates Log Website**  
 
 - **Ash**:  
   - **Role**: **Dev Assistant, Stashes, Learning more**
+
+- **Mo**:  
+  - **Role**: **Dev, Liam's Secretary**
 
 ---
 ## **📋 TRELLO**
