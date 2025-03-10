@@ -17,6 +17,7 @@ To enable teleporting to an event, use the following commands:
 
 1. `/seteventon true` – Activates event mode.
 2. `/seteventcoords` – Sets the event location.
+3. /seteventon false - Deactivates event mode.
 
 ## 🎟️ **Handling Event Tickets**🎟️
 
@@ -40,6 +41,6 @@ WHEN AT EVENTS
   
   ## 📂 **Documents**
 
-_(Add relevant links or document references here.)_
+There is a calendar for Viper events, access is limited to the team currently while we find another way to distribute this info. We often run 3 events a day at 1pm EST, 5pm EST, & 9pm EST.
 
 ---
