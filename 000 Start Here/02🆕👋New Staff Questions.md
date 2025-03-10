@@ -113,18 +113,27 @@ Once you’ve been on staff for a while, you’ll start to recognize who to DM f
 ---
 
 # 🆕 *What Can I Do as a New Staff Member?*  
-## **A Good Place to Start**  
+### 🆕 **A Good Place to Start**  
+#Tickets #StaffGuide  
 
-One of the best ways to get comfortable is by watching and learning from the **Ticket Team** members.  
+One of the best ways to get comfortable as a new staff member is by **watching and learning from the Ticket Team**.  
 
-✅ **What does the Ticket Team do?**  
-- They **start tickets** and **assign them** to the correct teams.  
-- They **don’t need** to know everything about **car dev, businesses, or clothing**, but they **do** know how to get tickets where they need to go.  
+### ✅ *What Does the Ticket Team Do?*  
+- They **create and manage tickets**, ensuring they reach the right teams.  
+- They **don’t need to be experts** in **car dev, businesses, or clothing**, but they **do** know how to route tickets correctly.  
 
-🚀 **Why Tickets Matter**  
-Tickets are a **HUGE** part of keeping the city running smoothly. Anything you can do to help **speed up the process** is valuable!  
+📌 **Check out the Ticket Team page** to learn how to handle specific tickets!  
 
-By understanding where to direct tickets, you’ll help ensure **faster resolutions** and keep things running efficiently. 🔥  
+---
+
+### 🚀 *Why Tickets Matter*  
+Tickets are a **CRUCIAL** part of keeping the city running smoothly.  
+
+✔️ A well-handled ticket = **faster resolutions**  
+✔️ A faster resolution = **happier players**  
+
+Anything you can do to **help speed up the process** is valuable! By learning how to manage tickets effectively, you’ll play a key role in keeping the city running at its best. 🔥  
+
 
 
 
