@@ -45,6 +45,11 @@ Now your advertisement is live on Birdy! 🚀
 
 ---
 
-How to fix someone getting teleported when creating a character
+## **How to Fix Someone Getting Teleported When Creating a Character**
 
-If anyone flies into viper and gets teleported somewhere else and they can't do the tutorial, find the keys, etc. you can tp to these cords: /tp -1379.1, -470.83, 72.04, then just bring them to you when there in city and the tutorial should work for them after. 
+
+If a player flies into Viper and gets teleported somewhere else, preventing them from completing the tutorial, finding keys, or interacting properly, follow these steps:
+
+1. **Teleport to the Coordinates:**
+   - Use the following command to teleport to the correct location:
+      /tp -1379.1, -470.83, 72.04
