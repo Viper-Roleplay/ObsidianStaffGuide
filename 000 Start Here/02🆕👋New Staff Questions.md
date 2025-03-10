@@ -16,6 +16,36 @@ To get access to Trello, follow these steps:
    - Once you log in, you’ll be prompted for a **Google Authenticator Code**.  
    - You must **reach out to me personally** to get this code set up. Please contact me **1-on-1** to proceed.
 
+# How to Use Trello
+
+The goal of a Trello note is to make a **Detailed** note.
+
+### Steps:
+
+1. **Create a New Note**
+   - Use the template provided when creating a new note.
+
+2. **Name the Note**
+   - Title the note with a clear description of the job or issue.  
+   - After naming, click **Create Card**.
+
+3. **Open the Card**
+   - Click on the card you just created.  
+   - A template will open with all the necessary information.
+
+4. **Complete the Information**
+   - **Link the Ticket**: Ensure the relevant ticket is linked.
+   - **Provide a Brief Description**:  
+     Describe the issue or job briefly.  
+     - For example, for this note, you would add the spawn codes of the items causing intoxication. This makes it a 2-3 minute task if we are given the correct information.
+   - **Note Added By**:  
+     Add your name so we can contact you if we need additional details or have questions.
+   - **Attach Files or Pictures**:  
+     Attach any files or images if necessary to explain the job or issue more clearly.
+### Video Guide to trello
+[Watch the video tutorial here](https://www.loom.com/share/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8)
+
+
 ---
 
 If you have any issues, feel free to reach out for help! 🌟
