@@ -10,6 +10,7 @@
 ---
 
 ## 🎟️ Handling Business Team Tickets🎟️ 
+#BusinessTicket 
 
 When new business inquiry ticket open ask the following:
 1. What business type are they interested in?
@@ -18,6 +19,28 @@ When new business inquiry ticket open ask the following:
 
 ---
 
+## 📑Important Docs 📑
+
+Here you can find the MLO list that shows all active owned/available MLOs/Businesses:
+
+- [MLO List 2025 - Google Sheets](https://docs.google.com/spreadsheets/d/10kPBJL6hYl-WSRRUOSekZTww8gdlISvA1GNl0ShdSuw/edit?pli=1&gid=1835404418#gid=1835404418)
+
+---
+
 ## Locks 
+#Locks
 Here is a video on how to use the lock script
 https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=28d09adb-6a48-4665-bb9b-9841ea39a251
+
+---
+
+## How to Give Ownership of Gas Stations
+#GasStation 
+
+- **Command for Gas Stations**:  
+    Use the command /grantbuygasstation [id]` to grant ownership of a gas station to the specified player.
+
+- **Command for Player Stores**:  
+    Use the command /grantbuyplayerstore [id]` to grant ownership of a player store to the specified player.
+    
+---

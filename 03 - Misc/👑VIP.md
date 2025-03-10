@@ -9,6 +9,7 @@ When someone **purchases VIP**, they should automatically receive the role match
  
 ## ⚠️ Common VIP Issues & Fixes 
 ### 1️⃣ VIP Not Linking In-City 
+#VIPIssue
 🔹 **Issue:** VIP role doesn’t sync in-game. 
 🔹 **Cause:** 
 - Discord and CFX are **not linked**. 
@@ -19,6 +20,7 @@ When someone **purchases VIP**, they should automatically receive the role match
   
 ---
 ### 2️⃣ Unable to Load Alta Apartment 
+#ApartmentIssue
 🔹 **Issue:** Falling through the world when entering their **Alta apartment**. 
 ✅ **Solution (Mod+ Required):** 
 1. Remove **Elite VIP** role from yourself. 
@@ -29,6 +31,7 @@ When someone **purchases VIP**, they should automatically receive the role match
  ---
 
 ### 3️⃣ Difficulty Finding Warehouse 
+#Warehouse
 🔹 **Issue:** Player can’t locate their **VIP warehouse**. 
 ✅ **Solution:** 
 - **Each VIP level has a unique warehouse location**—these are automatically set up. 
@@ -38,6 +41,7 @@ When someone **purchases VIP**, they should automatically receive the role match
 
 ---
 ### 4️⃣ Questions About the Boombox 
+#Boombox
 🔹 **Issue:** Players don’t understand how their **portable boombox** works. 
 ✅ **Key Details:** 
 - Can be placed on the ground to **play music** through your F1 menu. 🎵 
@@ -47,6 +51,7 @@ When someone **purchases VIP**, they should automatically receive the role match
 ---
 
 ### 5️⃣ VIP Houses 
+#VIPHouse
 🔹 **Issue:** Players want to know about **VIP-exclusive housing**. 
 ✅ **Key Details:** 
 - VIP members can access **restricted housing in the hills**. 🏡 
@@ -58,6 +63,7 @@ When someone **purchases VIP**, they should automatically receive the role match
    ---
 
 ### 6️⃣ Canceling VIP Subscription 
+#VIPCancel
 🔹 **Issue:** Players want to **cancel their VIP**. 
 ✅ **Solution:** 
 - Use the `!subscription` command to provide **cancellation information**. 

@@ -163,9 +163,34 @@ Now, when you launch FiveM using this shortcut, it will start in **Pure Mode**, 
 Once confirming the payment, use the following:
 
 1. Use the command: 
-/changeplate on **Z-Discord** to give someone a custom plate.
+/changeplate on **Z-Discord** to give someone a custom plate (8 characters max).
 
 ![[Pasted image 20250310150524.png]]
 
 ---
+
+## How to Find Someone's Stash
+#Stash #ApartmentStash
+For anyone who hasn't done it before, here’s how to find someone's **Steam Name/Apartment Stash**:
+[Finding Stash Names](https://cdn.discordapp.com/attachments/1002682682175656037/1107745034876489728/Putting_Items_in_Stashes_for_people_who_dont_fly_in.mp4?ex=67d088f5&is=67cf3775&hm=4f8a7ac44b79ece5cf375f5b0615048eb758d2df91c5fa65b67f1bfe65eeda21&)
+
+---
+
+## How to Transfer Assets on Keymaster
+#KeyMaster #AssetTransfer
+To transfer assets on Keymaster, follow these steps:
+
+1. **Log into Keymaster** using your credentials.
+2. Navigate to the **Asset Transfer** section.
+3. Select the asset you wish to transfer.
+4. Enter the **recipient's information** (such as username or ID).
+5. Confirm the **asset details** and double-check the recipient.
+6. Click on **Transfer** to complete the process.
+
+**Tip**: Ensure the recipient's account is valid before transferring assets to avoid issues.
+
+For a step-by-step walkthrough, watch this [video tutorial](https://youtu.be/_Aof5udsZMQ).
+
+---
+
 
