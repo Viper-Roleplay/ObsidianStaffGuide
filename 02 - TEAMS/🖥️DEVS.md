@@ -57,8 +57,7 @@ Access to **Trello** will be granted to certain staff members.
 ### **🚀 Dev Resources:**
 #DevResources
 
-For developers looking to learn more, use the following resource:  
-📄 [Developer Documentation](https://docs.google.com/document/d/11CgxsmelRKYlk603BEI4dfmQnZRLabVNM0EjhVxDDO4/edit#heading=h.4srcq56fa4j2)
+For developers looking to learn more, reach out to the dev team, we will try and help you help us!
 
 ### **🛠️ Dev Info**
 
@@ -82,7 +81,7 @@ I heard the feedback that my previous video was a bit too fast to follow, so I w
 For anyone wondering how to do things like **garages**, **stashes**, or **DJ scripts**, I’ve put together a tutorial that also works for **polyzones** and **vectors** in general!
 
 ✨ Here's the video:  
-[Watch the Tutorial](https://youtu.be/BYL3ofeqDSg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYL3ofeqDSg?si=ANguMKVfhn9re_q6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### 🔑 **Important Notes**:
 
 - Most of this info goes into **Liam’s notes** on Monday, unless told otherwise by **Frank** 🤠 or **Cici**.
