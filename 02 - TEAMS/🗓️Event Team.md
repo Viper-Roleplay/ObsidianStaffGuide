@@ -35,13 +35,29 @@ When a new event request ticket comes in, ask the following:
 Video Guide on the Announcement Menu
 https://www.loom.com/share/7f77f26eb37f4947a557c679ef96c310?sid=9c372043-810a-4e57-bf8c-fea874cd8448
 
-WHEN AT EVENTS 
-- your main reason for being there should be to help frosty & the event team advance the event and make it easier on them to host it 
-- When someone ask a question you know the answer to don't make them go find the leader of the event for simple shit 
-- When you show up don't be more of a headache then the community / killing each other / blowing shit up 
-  
-  ## 📂 **Documents**
+# 📌 When at Events  
 
-There is a calendar for Viper events, access is limited to the team currently while we find another way to distribute this info. We often run 3 events a day at 1pm EST, 5pm EST, & 9pm EST.
+### 🎯 Primary Objective  
+Your main reason for being there should be to **help Frosty & the event team**—make their job easier and support the event's success.  
+
+### 🗣️ Handling Questions  
+If someone asks a question and **you know the answer**, don’t make them track down the event leader for **simple things**. Help them directly.  
+
+### 🚦 Event Presence  
+When you arrive:  
+- **Be an asset, not a headache.**  
+- The **community, conflicts, and chaos** are already enough—don’t add to it.  
+
+---
+  
+# 📂 Documents  
+
+📅 **Viper Events Calendar**  
+- Access is currently **limited to the team** while we work on a better way to distribute this information.  
+- We typically run **three events per day** at:  
+  - 🕐 **1 PM EST/ 11AM PST**  
+  - 🕔 **5 PM EST/ 2PM PST**  
+  - 🕘 **9 PM EST/ 6PM PST**  
+
 
 ---
