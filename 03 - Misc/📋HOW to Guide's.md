@@ -157,3 +157,15 @@ Now, when you launch FiveM using this shortcut, it will start in **Pure Mode**, 
 ![[Pasted image 20250310145942.png]]
 
 ---
+
+## How to Give Someone a Custom Plate
+#zdiscord #CustomPlate
+Once confirming the payment, use the following:
+
+1. Use the command: 
+/changeplate on **Z-Discord** to give someone a custom plate.
+
+![[Pasted image 20250310150524.png]]
+
+---
+
