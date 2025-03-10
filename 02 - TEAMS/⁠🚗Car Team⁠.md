@@ -1,16 +1,41 @@
-#Car #CarTicket
-# 🌟 MEET THE TEAM 🌟
+#Car #CarTicket #CarTuning
+# 🌟 MEET THE TEAM 🌟  
 
-**Creamy Frank** — *Car Modeling, Promos* 
-**Tyler** — *Liveries, Tuning, PD/EMS Cars*
-**Phil** — *Tuning*
-**Dev Loc** — *1of1 Approval*
+## 🚗 Car Team Leads  
+- **Creamy Frank** – *Head of Car Team*  
+  - Car Modeling 
+  - Promos  
+  - Can push vehicles
+  - Tunes occasionally  
+
+- **Tyler** – *Head of Car Team*  
+  - Liveries 
+  - Tuning occasionally  
+  - PD/EMS Cars  
+  - Can push vehicles
+  - Can answer all car team questions  
+
+## 🔧 Tuning & Modeling  
+- **Phil** – *Tuning, Some modeling (learning more)*  
+- **Carlos Way** – *Tuning, Some modeling (learning more)*  
+- **Meewel** – *Tuning, Some modeling (learning more), Can push vehicles*  
+- **Tobey** – *Tuning*  
+
+## ✅ Car Approvals  
+- **Dev Loc** – *1of1 Approval (all other car team members can also do approvals)*  
 
 ---
-## Car Team Notes Channels
+# 🏎️ Vehicle tickets & Organization  
 
-These are the places where car related notes will go - specific tasks for specific people can still go in their respective notes, but to keep us all organized we have made 4 channels to separate vehicle notes by tasks. Each of these channels have Templates posted and pinned in them to give you an idea of what's easiest for us to work with. Car team will react to notes when they are working on them, and delete the message once the update is sent to Ready to Go. So you will always know what point each vehicle is at in its journey and what updates to give the players.
+🚗 **Where Car-Related Notes Go**  
+We’ve set up **four channels** to keep vehicle notes organized by task. While **specific tasks** for individuals can still go in their respective notes, these channels help us stay coordinated.  
 
+📌 **How It Works:**  
+- Each channel has **Templates** pinned to show the preferred format.  
+- The **Car Team will react** to notes when they begin working on them.  
+- Once an update is **sent to "Ready to Go," the message will be deleted** to keep things clean.  
+
+✅ This system ensures you **always know where each vehicle is in its journey** and what updates to provide to players.  
 
 ⁠🚗・𝐀𝐩𝐩𝐫𝐨𝐯𝐚𝐥𝐬 - Car approvals channel is where staff can throw ticket links and pictures of vehicles that players are inquiring about bringing into the server. ⁠
 🚗・𝐑𝐞𝐚𝐝𝐲-𝐓𝐨-𝐓𝐮𝐧𝐞 - Ready To Tune channel is where staff can throw ticket links and files for vehicles that have been approved and purchased by players to bring into the city. ⁠
