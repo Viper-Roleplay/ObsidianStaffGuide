@@ -1,22 +1,38 @@
-General guidelines to follow
+# General Guidelines to Follow
 
-- Always talk to people who you are giving a warning or ban too unless they aren't in city/don't respond to dm's. It's not fair to the player to be served ban before notice has been given.
+### 1. **Talk to Players Before Serving Warnings/Bans**
+   - Always try to speak with players you are giving a warning or ban to unless they aren’t in the city or don't respond to DMs. It's important to give the player notice before a punishment is served. It’s not fair to ban them without communication.
 
-- Do not relay the punishment that was served to players who reported the rule break. This is often asked for in revenge tickets.
+### 2. **Do Not Relay Punishments to Reporters**
+   - Do not share the punishment that was served with the players who reported the rule break. This is often requested in **revenge tickets**, and sharing this information could lead to unnecessary drama.
 
-- Always gather the context needed for scenes. 2min clips minimum, audio and initial interaction are often necessary to make a ruling. There are scenes that can be resolved without initial interaction and reporting players audio but there must be a clip.
+### 3. **Gather Proper Context for Scenes**
+   - Ensure you gather all necessary context before making a ruling:
+     - **2-minute clips minimum**
+     - **Audio and initial interaction** are often needed to make a proper ruling.
+   - Some scenes can be resolved without initial interaction or reporting player audio, but there must still be a clip.
+   - **Any ticket submitted over 24 hours ago is void.** This prevents players from filing revenge tickets after the fact.
 
-- When in doubt do not assume, ask questions. We are all here to help, and all need multiple opinions sometimes as well as all opinions in certain situations.
+### 4. **When in Doubt, Ask Questions**
+   - Never assume. If you’re unsure, ask questions. We’re all here to help one another.
+   - Sometimes, it's best to get **multiple opinions** or **all opinions** in certain situations.
 
-- Don't share logs or player info in tickets. This is to prevent harassment towards players, and to keep our logging format confidential.
+### 5. **Keep Logs and Player Info Confidential**
+   - Do not share logs or player info in tickets. This is to prevent harassment towards players and to keep our logging format confidential.
 
-- Don't serve bans for scenes you were a part of unless absolutely necessary (modder, troll, confirmed F8). Tap in another staff member and share your POV.
+### 6. **Avoid Serving Bans in Your Own Scene**
+   - Do not serve bans for scenes you were directly involved in unless absolutely necessary (e.g., modder, troll, confirmed F8).
+   - In such cases, tap in another staff member and share your **POV** to ensure objectivity.
 
-- ^ Same goes for people you have issues with
-  
-  
- **Moderator :** 1-3 days
- **Admin :** 1-7 days + Modders
- **Senior admin :** 1-30 days + Modders
- **Head admin/Server Manager :** 1-perma
- **Owner :** 1 - Blacklist
+### 7. **The Same Applies to Personal Issues**
+   - The same guideline applies to players you may have issues with. Avoid serving bans in these situations as well.
+
+---
+
+### **Punishment Guidelines**
+
+- **Moderator**: 1-3 days
+- **Admin**: 1-7 days + Modders
+- **Senior Admin**: 1-30 days + Modders
+- **Head Admin/Server Manager**: 1 - Perma
+- **Owner**: 1 - Blacklist
