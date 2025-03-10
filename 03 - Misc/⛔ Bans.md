@@ -29,7 +29,14 @@
    - The same guideline applies to players you may have issues with. Avoid serving bans in these situations as well.
 
 ---
+## 🚫 **Ban Recommendations**
+#BanRecommendation
 
+For detailed ban recommendations, please refer to the following document:
+
+[**Ban Recommendations Spreadsheet**](https://docs.google.com/spreadsheets/d/1eyZMoLpI_p9X-PFpz8gpNBfhZm0ncCVFjxIy6Jx85O0/edit#gid=0)
+
+---
 ### **Punishment Guidelines**
 
 - **Moderator**: 1-3 days
