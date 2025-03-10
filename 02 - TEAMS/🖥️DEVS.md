@@ -66,3 +66,18 @@ Access to **Trello** will be granted to certain staff members.
 
 For developers looking to learn more, use the following resource:  
 📄 [Developer Documentation](https://docs.google.com/document/d/11CgxsmelRKYlk603BEI4dfmQnZRLabVNM0EjhVxDDO4/edit#heading=h.4srcq56fa4j2)
+
+### **🛠️ Dev Info**
+
+Click the link below for all the **developer resources** and details:
+
+[**Developer Info Document**](https://docs.google.com/document/d/16N4g48WSOuQd2XnVvD1KS16f8yp9Zr5c20DRUcCTFqY/edit?usp=sharing)
+
+**This document covers:**
+- Important development resources
+- Tools & guidelines for developers
+- Key info for enhancing your work on the server
+
+Make sure to check it out for all the **necessary details**! 📚
+
+---
