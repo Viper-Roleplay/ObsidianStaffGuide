@@ -7,6 +7,7 @@
 
 - **Frosty** – Event Manager
 - **Draco** – Event Team
+- **Griffa** – Event Team
 - **Lauren** – Event Team
 - **Lua** – Event Team
 
