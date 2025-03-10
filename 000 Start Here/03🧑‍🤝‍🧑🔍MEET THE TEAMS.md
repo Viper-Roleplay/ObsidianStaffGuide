@@ -245,6 +245,7 @@
 ---
 
 ## #TicketTeam  
+
 ### **Lauren**  
 - **Can answer 99% of ticket questions**  
 - **Event Team**  
