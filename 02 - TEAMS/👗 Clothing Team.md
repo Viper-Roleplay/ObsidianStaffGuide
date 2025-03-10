@@ -27,33 +27,43 @@
 When a player opens a ticket for a custom clothing item, determine which payment tier applies:
 
 ### **SIMPLE CLOTHING** - **$30**
-#SimpleClothing
+
+#SimpleClothing  
 This covers basic alterations and modifications to existing items. The following fall under the Simple Clothing category:
 
 - **Texture Change**: Adding a new texture or logo to an already existing piece of clothing (Example: changing the design on a shirt).
-- **Unisex Conversion**: Making an existing item unisex (Please note: not all models can be converted to unisex, so make sure to open a ticket beforehand to confirm its feasibility).
+- **Unisex Conversion**: Making an existing item unisex _(Please note: not all models can be converted to unisex, so make sure to open a ticket beforehand to confirm its feasibility)._
+
+---
 
 ### **COMPLEX CLOTHING** - **$60**
-#ComplexClothing
+
+#ComplexClothing  
 For more intricate clothing requests, this category includes:
 
-- **Importing New Models**: Importing an entirely new model into the city (Please note that the model must meet the city's standards, so always open a ticket before purchasing or having it made).
+- **Importing New Models**: Importing an entirely new model into the city _(Please note that the model must meet the city's standards, so always open a ticket before purchasing or having it made)_.
 - This category covers:
     - Pants
     - Shirts
     - Masks
-    - Hats (Currently at full capacity, no more hats will be added at this time)
+    - Hats _(Currently at full capacity, no more hats will be added at this time)_
     - Vests
     - Shoes
     - Bags
 
+---
+
 ### **ADVANCED CLOTHING** - **$100**
-#AdvancedClothing
-The highest tier, which includes:
+
+#AdvancedClothing  
+The next tier, which includes:
 
 - **Chains**: These are both wearable chains and physical items. Chains fall under the advanced clothing category.  
-    (Again, please ensure you open a ticket for approval before having these made).
+    _(Again, please ensure you open a ticket for approval before having these made)._
     - **Note**: This price only covers pushing the chain to the city. An additional charge applies if you want the chain created.
 
 ---
 
+### **1 of 1 Clothing** - **$150**
+#1of1Clothing
+These items are license-locked to ONE player. This is the highest-tier clothing item that will prevent anyone else in the city from wearing it.
