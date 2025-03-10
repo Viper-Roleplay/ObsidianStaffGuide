@@ -83,14 +83,19 @@ That’s how most logs work. You can also use other identifiers to search:
 
 This process helps you quickly identify and investigate the relevant logs related to a specific incident.
 
+# How Do I Know Who to Send Tickets To?
 
-### How do I know who to send tickets to
-
-Once you're in staff for a bit you'll learn who to send tickets to in DM's but until then you can visit the **Meet The Team*** Tab in the Staff Guide and learn there. There are also tabs in the Staff Discord of each persons notes.
-
-A good place to start is by watching out Ticket Team peeps. These individuals can start tickets and get them to the appropriate teams without having any idea how to be a car dev,  put a business in city, or make clothing. Tickets are a HUGE part of keeping the city running smoothly. Whatever you can do to help the ticket get processed faster should be done.
+Once you’ve been on staff for a while, you’ll start to learn who to send tickets to via DMs. However, if you're still getting the hang of things, you can visit the **Meet The Team** tab in the **Staff Guide** to find more information. Additionally, you can check the tabs in the **Staff Discord** for each person's notes.
 
 
-### What all can I do as a new member to staff?
+## What all can I do as a new member to staff?
+### A Good Place to Start
+Start by reaching out to **Ticket Team** members/watch how they handle tickets. These individuals can initiate tickets and route them to the appropriate teams. They might not have expertise in areas like car development, adding businesses to the city, or clothing creation, but they are skilled at managing and directing tickets to the right place. 
+
+**Tickets are a HUGE part of keeping the city running smoothly**. Whatever you can do to help the ticket be processed faster should be done!
+
+---
+This will help ensure that your ticket reaches the right hands for quicker resolution.
+
 
 
