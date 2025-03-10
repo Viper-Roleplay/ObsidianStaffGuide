@@ -42,3 +42,9 @@ https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=7d7af74d-b864-4a
 7. The image will appear—**save it to your gallery**.  
 
 Now your advertisement is live on Birdy! 🚀  
+
+---
+
+How to fix someone getting teleported when creating a character
+
+If anyone flies into viper and gets teleported somewhere else and they can't do the tutorial, find the keys, etc. you can tp to these cords: /tp -1379.1, -470.83, 72.04, then just bring them to you when there in city and the tutorial should work for them after. 
