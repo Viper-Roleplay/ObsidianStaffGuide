@@ -1,3 +1,28 @@
+
+# 📝 **How to Get Access to Trello & Logs**
+
+## 🔹 **Trello Access**  
+To get access to Trello, follow these steps:
+
+1. **Trello URL**  
+   - Access the Trello board here:  
+     [**Trello Viper Roleplay Board**](https://trello.com/b/CwyIDn1n/viper-roleplay)
+
+2. **Enter the UN/PW**  
+   - Username: **viperroleplay2024@gmail.com**  
+   - Password: **llag2023**  
+
+3. **Google Authenticator**  
+   - Once you log in, you’ll be prompted for a **Google Authenticator Code**.  
+   - You must **reach out to me personally** to get this code set up. Please contact me **1-on-1** to proceed.
+
+---
+
+If you have any issues, feel free to reach out for help! 🌟
+
+Logs:
+
+
 ### *How do I use logs?*
 
 Using logs is pretty simple once you can understand what each log is capable of doing and what can be done. Starting out as soon as you're on staff you can obtain access to logs, just message Alter for a login and he will get you situated. Once you get the login, lets say you want to find out who robbed someone.
