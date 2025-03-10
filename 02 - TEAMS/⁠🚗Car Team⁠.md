@@ -8,7 +8,7 @@
   - Can push vehicles
   - Tunes occasionally  
 
-- **Tyler** – *Head of Car Team*  
+- **Tyler** – *Assistant Head of Car Team*  
   - Liveries 
   - Tuning occasionally  
   - PD/EMS Cars  
