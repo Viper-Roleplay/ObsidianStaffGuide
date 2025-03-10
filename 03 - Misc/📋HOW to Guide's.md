@@ -133,3 +133,27 @@ You can also use zdiscord to move the boat to a specific garage if necessary:
    `/vehiclegive (ID) (Model)`
 
 ---
+
+## ✈️ **How to Keep FiveM from Restarting When Flying In**
+
+Since **Pure Mode** is back, you can prevent FiveM from restarting every time you load into the city by following these steps:
+#PureMode 
+### Steps:
+1. **Locate Your FiveM Shortcut**
+   - Find your FiveM shortcut on your desktop or in your start menu.
+
+2. **Add the Command for Pure Mode**
+   - Right-click the FiveM shortcut and select **Properties**.
+   - In the **Target** field, add the following command at the end of the line:  
+   `-pure_1`
+
+   The target line should look like this:  
+   `"C:\path\to\fivem.exe" -pure_1`
+
+3. **Save the Changes**
+   - Click **Apply**, then **OK** to save the changes.
+
+Now, when you launch FiveM using this shortcut, it will start in **Pure Mode**, and you won't have to restart every time you load into the city! 🌆
+![[Pasted image 20250310145942.png]]
+
+---
