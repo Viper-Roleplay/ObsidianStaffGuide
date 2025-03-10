@@ -1,7 +1,7 @@
 #Clothing #ClothingTicket
 # 🌟 **MEET THE TEAM** 🌟
 
-- **Merlin**: Clothing Team Leader _(also stinky)_
+- **Merlin**: Clothing Team Dev _(also stinky)_
 - **Ploo**: Clothing Team
 - **Kenny**: PD/EMS Clothing, Clothing Team Assistant
 
