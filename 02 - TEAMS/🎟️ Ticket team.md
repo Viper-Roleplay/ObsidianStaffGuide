@@ -1,42 +1,65 @@
+# Tickets Handling Guide
 
-Any Questions on tickets and your unsure who to send it too or what you can do, you can put your question and link the ticket in to [🤖・𝙏𝙞𝙘𝙠𝙚𝙩-𝙏𝙖𝙡𝙠](https://discord.com/channels/948070993518288936/1116876420287840336)|
+If you have any questions regarding tickets and you're unsure who to send it to or what you can do, you can ask in [🤖・𝙏𝙞𝙘𝙠𝙚𝙩-𝙏𝙖𝙡𝙠](https://discord.com/channels/948070993518288936/1116876420287840336) and link the ticket for guidance.
 
-# Answering Tickets
+---
 
-#### Tebex/Payments 
-[](https://discord.com/channels/876558619779412078/1084707486805790730)
-When a Tebex payment ticket comes through, the first thing you will want to do is rename the ticket accordingly. Following the name, we will need to confirm the payment by getting the customer to send a screenshot of their receipt and or typing out the tebex code. Now that the payment has been confirmed for the purchase, you can follow through with getting the player's purchase taken care of. Each purchase is different leaving you with a variety of options to move forward.
+## Answering Tickets
 
-#### House Purchases
-[𝙋𝙖𝙮𝙢𝙚𝙣𝙩-𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚𝙙](https://discord.com/channels/876558619779412078/939305578054942720)
-When the player has purchased a house, we will want to ask the player for both a screenshot of the location/outside of the house; as well as what their desired interior will be after linking the video showcase from the real estate channel ([https://www.youtube.com/watch?v=g1sLWiCE1vE](https://www.youtube.com/watch?v=g1sLWiCE1vE "https://www.youtube.com/watch?v=g1sLWiCE1vE")). Keep in mind its best to give the player a friendly reminder about having the interior be similar to the corresponding property for realism and roleplay purposes. Now that we have that important information, it will aid the real estate team in their handling of the ticket. We can now @Real Estate Team in the ticket, or personally dm the ticket link to a member of the real estate team.
+Each team has a guideline for starting off their tickets under their respective team guides. These guides are essential to help you support the team effectively. Even if you can't directly tune cars, you can assist with finding details about the car or providing basic info regarding the cost of 1of1s.
 
-Each team has a guideline for starting off their tickets under their respective team guides. These are an amazing way to help out the team, you may not be able to tune cars but you can find out the car they are interested in/provide basic info on the cost of 1of1s.
+---
 
-#### GC-Coins/Cases
-Good news! The purchases for GC-Coins and Cases are automated. To redeem the GC the player will need to 
-1) Hit Escape
-   2) Click on "Coin Shop"
-      3) Click the Yellow Plus towards the top left
-         4) Paste the Tebex code where it shows "Redeem Code"
-Additionally we have a command that links a tutorial in the main discord, we can use **!claimgc** in the ticket to provide a short video tutorial.
+### Tebex/Payments
 
-#### Battlepass Purchases
-Claiming Battlepasses is just as straight forward! 
-1) Hit Escape to access the Pause Menu
-   2) Click "Battlepass"
-      3) Click "Unlock Premium"
-         4) Paste the Tebex code in the pop-up box
-Similarly we have a command that will link a tutorial, you can use it in the ticket by doing **!claimbp**
+When a **Tebex** payment ticket comes through, the first step is to rename the ticket accordingly. You will then need to confirm the payment by asking the customer for a screenshot of their receipt or asking them to provide the **Tebex code**. Once the payment is confirmed, proceed with fulfilling the player’s purchase. Keep in mind, each purchase might have different requirements, so be ready to handle a variety of follow-up actions.
 
+- [Tebex/Payments - Discord Channel](https://discord.com/channels/876558619779412078/1084707486805790730)
+
+---
+
+### House Purchases
+
+When a player buys a house, ask for the following:
+
+1. **Screenshot of the house's location** (outside view)
+2. **Desired interior** (after sharing the showcase video from the real estate channel: [YouTube Link](https://www.youtube.com/watch?v=g1sLWiCE1vE))
+
+Be sure to remind the player to keep the interior in line with the property’s style for realism. Once the required details are provided, tag the **Real Estate Team** or personally DM them the ticket link for further processing.
+
+- [House Purchase - Payment Completed Channel](https://discord.com/channels/876558619779412078/939305578054942720)
+
+---
+
+### GC-Coins/Cases
+
+Good news! **GC-Coins** and **Cases** purchases are automated. To redeem GC-Coins, follow these steps:
+
+1. Hit **Escape**
+2. Select **Coin Shop**
+3. Click the **Yellow Plus** icon at the top left
+4. Paste the **Tebex code** in the "Redeem Code" field
+
+You can also use the command **!claimgc** in the ticket to provide a short video tutorial for the player.
+
+---
+
+### Battlepass Purchases
+
+Claiming **Battlepasses** is just as easy!
+
+1. Hit **Escape** to open the Pause Menu
+2. Select **Battlepass**
+3. Click **Unlock Premium**
+4. Paste the **Tebex code** in the pop-up box
+
+Use the command **!claimbp** in the ticket to link a tutorial video.
+
+---
 
 ### Anti-Cheat Ban Appeals
-When it comes to anti-cheat bans it is pretty straight forward, all that is needed is their ban license, the ticket to be renamed to *discord username*-ban-appeal, the ticket to be dragged to anti cheat bans, and putting it in the staff discord in the **Anti-Cheat-Unbans** channel
 
+When handling **Anti-Cheat Ban Appeals**, follow these steps:
 
- 
-
-
-
-
-
+1. Get the player’s **ban license**.
+2. Rename the ticket to *discord username
