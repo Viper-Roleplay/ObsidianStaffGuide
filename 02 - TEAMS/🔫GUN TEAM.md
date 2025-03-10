@@ -6,7 +6,7 @@
 
 --- 
 
-## 🎟 Handling Gun Team Tickets 🎟 
+## 🎟️ Handling Gun Team Tickets 🎟️ 
 
 1️⃣ **Ask the player what issue they are having** *Example: Gun recoil issue, texture issue, not taking ammo, not pulling out of their pocket.* 
 2️⃣ **Ask for a photo of the gun in their pocket** *(*If you have powers, look up the spawncode as well!*)* 

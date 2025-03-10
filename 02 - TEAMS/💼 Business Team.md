@@ -2,8 +2,8 @@
 
 # 🌟 Meet the Team 🌟 
 
-**Liz** — Lead Business Coordinator
-**Rue** — Business Coordinator
+**Liz** — Head of Business Team
+**Rue** — Head of Business Team
 **Marc** — Business Coordinator
 **Lauren** — Business Coordinator
 
