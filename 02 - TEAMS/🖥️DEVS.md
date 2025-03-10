@@ -3,7 +3,7 @@
 
 ## 🖥️ **Meet the Team!**
 
-### **#Developers**  #Dev #DeveloperTicket
+#Developers #Dev #DeveloperTicket 
 
 - **Bobby**:  
   - **Role**: Dev Coordinator, Configs Master, Economy Man, **PD State Command**  
