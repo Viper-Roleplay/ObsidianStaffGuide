@@ -27,14 +27,14 @@
 When a player opens a ticket for a custom clothing item, determine which payment tier applies:
 
 ### **SIMPLE CLOTHING** - **$30**
-
+#SimpleClothing
 This covers basic alterations and modifications to existing items. The following fall under the Simple Clothing category:
 
 - **Texture Change**: Adding a new texture or logo to an already existing piece of clothing (Example: changing the design on a shirt).
 - **Unisex Conversion**: Making an existing item unisex (Please note: not all models can be converted to unisex, so make sure to open a ticket beforehand to confirm its feasibility).
 
 ### **COMPLEX CLOTHING** - **$60**
-
+#ComplexClothing
 For more intricate clothing requests, this category includes:
 
 - **Importing New Models**: Importing an entirely new model into the city (Please note that the model must meet the city's standards, so always open a ticket before purchasing or having it made).
@@ -48,7 +48,7 @@ For more intricate clothing requests, this category includes:
     - Bags
 
 ### **ADVANCED CLOTHING** - **$100**
-
+#AdvancedClothing
 The highest tier, which includes:
 
 - **Chains**: These are both wearable chains and physical items. Chains fall under the advanced clothing category.  
