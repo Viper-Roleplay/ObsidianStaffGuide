@@ -1,4 +1,5 @@
 # General Guidelines to Follow
+#Ban #Bans #Warning
 
 ### 1. **Talk to Players Before Serving Warnings/Bans**
    - Always try to speak with players you are giving a warning or ban to unless they aren’t in the city or don't respond to DMs. It's important to give the player notice before a punishment is served. It’s not fair to ban them without communication.
