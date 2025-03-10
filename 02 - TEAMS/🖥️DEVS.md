@@ -67,3 +67,22 @@ Click the link below for all the **developer resources** and details:
 Make sure to check it out for all the **necessary details**! 📚
 
 ---
+
+## 📹 **New Video Tutorial!**
+#Stash #DJ #Polyzone #Vector #Garage
+I heard the feedback that my previous video was a bit too fast to follow, so I went ahead and **remade it** at a more reasonable speed! 😄
+
+For anyone wondering how to do things like **garages**, **stashes**, or **DJ scripts**, I’ve put together a tutorial that also works for **polyzones** and **vectors** in general!
+
+✨ Here's the video:  
+[Watch the Tutorial](https://youtu.be/BYL3ofeqDSg)
+### 🔑 **Important Notes**:
+
+- Most of this info goes into **Liam’s notes** on Monday, unless told otherwise by **Frank** 🤠 or **Cici**.
+- If you don’t have access to Monday, let **Brian** know!
+
+### For **stashes** and **DJ scripts**:
+
+- You’ll need either a **JOB** to tie it to or the **CSN** of the person who purchased it. So, make sure to **get that info** from the person who made the ticket!
+
+---
