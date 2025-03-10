@@ -91,3 +91,45 @@ To give a staff member the **Battlepass** or when **High Command** instructs you
 📝 **Confirm payment first, then** to give someone Battlepass XP, use:
 
 /addbattlepassxp (ID) (45000)
+
+---
+## 🚤 **How to Find a Player Boat When It 'Poofs'**
+
+If a player opens a ticket about their boat being impounded and they can't access it, it’s likely gone to the **car impound**, but it isn't being picked up by the script since it’s a boat. Here’s how to handle it:
+#RecoverVehicle #Boat #zdiscord #/command 
+### Steps to Recover the Boat:
+
+1. **Check the Boat Impound**  
+   Use **zdiscord** to move it to the **boatimpound** garage.
+
+   Command:  
+   `/movecar (PLATE) boatimpound`
+
+2. **If That Doesn’t Work**  
+   If the boat still isn't accessible, the only option left is to delete the boat and **re-give** it to the player.
+
+### Alternative Command:
+You can also use zdiscord to move the boat to a specific garage if necessary:  
+`/movecar (PLATE) (Garage Name)`
+
+---
+
+## 🚗 **How to Remove and Return a Vehicle**
+#RemoveVehicle #GiveVehicle #zdiscord #/command 
+
+### Steps to Remove and Return a Vehicle:
+
+1. **Confirm Vehicle Ownership**  
+   - Have the player provide a **photo of the vehicle** in the **garage app** to confirm ownership.
+
+2. **Remove the Vehicle**  
+   Use **zdiscord** to remove the vehicle:  
+   Command:  
+   `/removecar (PLATE)`
+
+3. **Return the Vehicle**  
+   After confirmation, return the vehicle using the following command:  
+   Command:  
+   `/vehiclegive (ID) (Model)`
+
+---
