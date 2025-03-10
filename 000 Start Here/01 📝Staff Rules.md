@@ -1,54 +1,96 @@
-**Golden Rule**
+# 🌟 **Golden Rule**  
+#StaffRules
 
-Staff are here to voluntarily make the server better and more enjoyable for all, rather than only for their own enjoyment.
+## 🛡️ **The Purpose of Staff**  
+Staff are here **voluntarily** to make the server better and more enjoyable **for everyone**, not just for their own fun.  
 
-Staff are pretty much regular players and do not get any special treatment when it comes to rule enforcement. As staff we should be setting an example for others to follow.
+## ⚖️ **No Special Treatment**  
+- **Staff are regular players** and do not receive special privileges regarding rule enforcement.  
+- As staff, we should **set an example** for others to follow.  
 
-Much like with rules for players, USE. COMMON. SENSE. IF you choose to make yourself consistently the problem, and excuse it with "the rules say this is sometimes okay", “Well so and so did this then why can’t I”, YOU will be treated as the problem for a lack of self-moderation.
+## 🧠 **Use Common Sense**  
+- **DO NOT** exploit loopholes or use technicalities to justify problematic behavior.  
+  - ❌ *"The rules say this is sometimes okay."*  
+  - ❌ *"Well, so-and-so did it, so why can’t I?"*  
+- If you **consistently create issues** and fail to self-moderate, **YOU** will be treated as the problem.  
 
-No staff member is exempt from these policies or the server's rules, whether it's the Head Admins who set these policies or newly hired Discord mods. Do not be a hypocrite.
+## 🚫 **No One is Exempt**  
+- **All staff members**, from **Head Admins** to newly hired **Discord Mods**, must follow these policies and server rules.  
+- **Do not be a hypocrite.**  
 
-There is no concrete "strike" system for staff, but staff are subject to demotion, removal, or miscellaneous if they break these policies, with consequences dependent on context and if the intention was good-natured, we look most harshly upon staff abusing rank for personal gain.
+## ⚠️ **Accountability & Consequences**  
+- There is **no strict "strike" system** for staff.  
+- Staff may face **demotion, removal, or other consequences** if they break policies.  
+- **The most serious offense:** **Abusing rank for personal gain.**  
+- Consequences depend on **context and intent**—good-natured mistakes will be viewed differently than intentional misconduct.  
 
-We expect staff to have a mild-moderate amount of professionalism in interactions, but also strive to be able to tell when something shouldn't be taken with the utmost seriousness.
+## 🎭 **Professionalism with Personality**  
+- Staff should maintain a **moderate level of professionalism** in interactions.  
+- However, **not everything is a crisis**—know when to take things seriously and when to be more relaxed.  
+- **Find the balance** between being respectful and not sounding like an emotionless machine.  
 
-Meaning you are expected to take things seriously when needed but should not sound like emotionless machines when doing so. Find the balance to know when things are serious and when they are not.
+---
+
+By following these principles, we ensure a **fair, fun, and well-moderated** environment for all. 🚀  
+
+---
+
+# ⚖️ **Bias & Objectivity**  
+
+## 🔹 **Know When to Step Back**  
+If you are **too heated** to handle a ticket fairly, **hand it off** to another staff member.  
+- We have **30+ staff members**—this should not be difficult in most cases.  
+
+## 🚨 **NEVER Handle Your Own Tickets**  
+- Staff **must not** handle their own reports, issues, or conflicts.  
+- Be mature enough to recognize when **personal bias** might affect your judgment.  
+
+## 🛑 **Conflict of Interest**  
+If you are **involved in a conflict**, take a step back and **let another staff member handle it.**  
+- **Example:**  
+  - If someone is **spamming or flooding a channel**, you can step in regardless.  
+  - If someone **wronged you in-city**, you **must** let another staff member handle the situation.  
+
+## ❓ **Unsure About a Ticket? Ask!**  
+- If you’re unsure **how to handle an issue**, this guide provides:  
+  - Who to go to for assistance.  
+  - What each staff member specializes in.  
+
+## 🎧 **Staff VC is Mandatory**  
+- If you are **handling tickets, moderating, or working on the server**, you **must** be in **Staff VC**.  
+- **Why?**  
+  - This lets **Higher-Ups** know you’re active and working.  
+  - **Not being in Staff VC = Not showing up.**  
+
+---
+
+Following these guidelines ensures **fairness, transparency, and accountability** within the staff team. 🚀  
+
+---
 
 
-**Bias**
+# 🏖️ **Leave of Absence (LOA)** 
+#LOA 
 
+## 🔹 **Need a Break? Take One!**  
+If you need time away, **make an LOA** to re-acquaint yourself when you return.  
+- **Life happens**—if you need a break, don’t hesitate to post an LOA.  
+- Submit your LOA here: 💔・𝐋𝐎𝐀 [(Click to Open)](https://discord.com/channels/948070993518288936/1003542338985021450)  
 
-If you are too heated to handle a ticket/issue in an unbiased way, hand it off to other staff if possible. We have >30 staff members, this shouldn't be hard in most cases.
+---
 
-***Staff must never handle their own tickets.***
+## 📝 **LOA Template**  
 
-We expect staff to be mature enough to realize when a personal issue will cause bias in judgment as well.
+**Loa Date:**   
+**Loa Time:**  
+**Loa Reason (Optional):**  
 
-This means if you are involved with a conflict, stop, sit back, and ask your peers to handle it for you.
+### 📌 **Example:**  
+**Loa Date:** *12/24 - 12/25*  
+**Loa Time:** *12/24 8:00 AM - 12:00 PM; 12/25 All Day*  
+**Loa Reason (Optional):** *Going to go touch grass with the family* 🌿  
 
-There's a bit of nuance to this sometimes - If someone is flooding/spamming a channel it doesn't matter if you're an unrelated party or the person they were feuding with, while if you are upset someone wronged you in city, you should definitely ask for someone else.
+---
 
-Ask questions if you're not sure about a ticket or how to handle something. This Guide will tell you who to go to and what most people handle within staff.
-
-If you are in city, handling tickets or doing some kind of work for the server, YOU MUST BE IN STAFF VC. Being on staff VC lets the Higher Ups know you are working on something and active. Failing to be in staff VC will be seen as failing to show up.
-
-If you want to take a break, take the time to re-acquaint yourself, make an LOA. 
-
-  
-
-LOA TEMPLATE:
-
-Loa Date:
-
-Loa Time:
-
-Loa Reason (Optional):
-
-  
-
-Example:
-
-Loa Date: *12/24 - 12/25*
-Loa Time: *12/24 8:00am-12:00 ; 12/25 All day long*
-Loa Reason (Optional): *Going to go touch grass with the family*
+Taking a break is **okay!** Just keep us in the loop so we know when to expect you back. 💙  
 
