@@ -51,30 +51,44 @@ The goal of a Trello note is to make a **Detailed** note.
 
 If you have any issues, feel free to reach out for help! 🌟
 
-Logs:
+Get Access to Logs:
+#Logs #LogAccess
 
+# *How Do I Use Logs?*
 
-### *How do I use logs?*
+Using logs is pretty simple once you understand what each log can do and how to use them. When you start on staff, you’ll be given access to logs. Simply message **Alter** for a login, and he’ll get you set up. Once you have the login, here’s how you can start looking up logs. Let's say you want to find out who robbed someone.
 
-Using logs is pretty simple once you can understand what each log is capable of doing and what can be done. Starting out as soon as you're on staff you can obtain access to logs, just message Alter for a login and he will get you situated. Once you get the login, lets say you want to find out who robbed someone.
+### **Step 1: Copy the Robbed Person's Discord ID**
+- Go into the ticket of the person who got robbed.
+- Right-click their username to copy their **Discord ID**.  
+   *(To grab a Discord ID, enable Developer Mode in Discord’s settings.)*
 
-Step 1: Go into the ticket of the person who got robbed and copy their discord ID by right clicking their username (a discord ID can be grabbed by enabling discords developer mode in the settings)
+### **Step 2: Access the Logs Website**
+- Go to the logs website.
+- Search for the **"Robbing"** tab.
+  - **Money Robbed** is separated into a different log called **'MoneyRobbed'**.
 
-Step 2: Go to the logs website and search for the tab called "Robbing" (Money that gets robbed gets separated into a different log called 'MoneyRobbed')
+### **Step 3: Search the Logs**
+- Click the search icon at the top right of the page.
+- Input the **Discord ID** of the ticket creator and hit **Search**.
 
-Step 3: Click the search icon at the top right of the page and input the ticket creators discord user id and search
+That’s how most logs work. You can also use other identifiers to search:
 
-That's how most of the logs are, some other identifiers can be used as well
+- **Citizen ID**
+- **Discord ID**
+- **FiveM License** (e.g., `1417e0de8dffd858353f7f14d3e054f959651ff4`)
+- **In-City Username**
 
-*Citizen ID*
-*Discord ID*
-*Fivem License (ex. 1417e0de8dffd858353f7f14d3e054f959651ff4)*
-*In City Username*
+---
+
+This process helps you quickly identify and investigate the relevant logs related to a specific incident.
 
 
 ### How do I know who to send tickets to
 
 Once you're in staff for a bit you'll learn who to send tickets to in DM's but until then you can visit the **Meet The Team*** Tab in the Staff Guide and learn there. There are also tabs in the Staff Discord of each persons notes.
+
+A good place to start is by watching out Ticket Team peeps. These individuals can start tickets and get them to the appropriate teams without having any idea how to be a car dev,  put a business in city, or make clothing. Tickets are a HUGE part of keeping the city running smoothly. Whatever you can do to help the ticket get processed faster should be done.
 
 
 ### What all can I do as a new member to staff?
