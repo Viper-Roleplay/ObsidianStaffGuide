@@ -13,7 +13,8 @@
 
 When new business inquiry ticket open ask the following:
 1. What business type are they interested in?
-2. 
+2. Create excitement for them about how the city could use more of that type of business activity!
+3. Link the ticket to the business team in staff cord 🏦・𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 (https://discord.com/channels/948070993518288936/1258136882227974286)
 
 ---
 
