@@ -1,56 +1,42 @@
 #Developers #DeveloperTicket #DevTrello
 
 
-## 🖥️ Meet the Team!**
+## 🖥️ **Meet the Team!**
 
-#Developers  #Dev #DeveloperTicket 
-### **Bobby**  
-- Dev Coordinator  
-- Configs Master  
-- Economy Man  
-- **PD State Command**
+### **#Developers**  #Dev #DeveloperTicket
 
-### **Cici**  
-- **Lead Developer**  
-- **Restart and Delay Restart for Main**  
-- **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**
+- **Bobby**:  
+  - **Role**: Dev Coordinator, Configs Master, Economy Man, **PD State Command**  
 
-### **Heath**  
-- **Graphic Design**  
-- **Good to Ask Questions on Most Staff Topics**  
-- **Can Do UI and UX**
+- **Cici**:  
+  - **Role**: **Lead Developer**, **Restart and Delay Restart for Main**  
+  - **Specialty**: **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**  
 
-### **Cowboy Frank**  
-- **EMS Dev**  
-- **Restart and Delay Restart for Main**  
-- **Can Push to Main**  
-- **Can Allow Access**  
-- **Can Do UI**  
-- **JavaScript**
+- **Heath**:  
+  - **Role**: **Graphic Design**  
+  - **Specialty**: **Good to Ask Questions on Most Staff Topics**, **Can Do UI and UX**  
 
-### **Liam**  
-- **Business Dev**  
-- **Push to Main**  
-- **Restart and Delay Restart for Main**
+- **Cowboy Frank**:  
+  - **Role**: **EMS Dev**  
+  - **Specialty**: **Restart and Delay Restart for Main**, **Can Push to Main**, **Can Allow Access**, **Can Do UI**, **JavaScript**  
 
-### **Scott**  
-- **Config**  
-- **Bobby's Assistant**  
-- **Push for Main**  
-- **PD State Command**
+- **Liam**:  
+  - **Role**: **Business Dev**  
+  - **Specialty**: **Push to Main**, **Restart and Delay Restart for Main**  
 
-### **Alter**  
-- **Modeling**  
-- **Updates Log Website**
+- **Scott**:  
+  - **Role**: **Config**, **Bobby's Assistant**, **Push for Main**, **PD State Command**  
 
-### **Xora**  
-- **Main Heist Dev**  
-- **Gang Dev**
+- **Alter**:  
+  - **Role**: **Modeling**, **Updates Log Website**  
 
-### **Ash**  
-- **Dev Tickets**  
-- **Dev Helper**
+- **Xora**:  
+  - **Role**: **Main Heist Dev**, **Gang Dev**  
 
+- **Ash**:  
+  - **Role**: **Dev Assistant, Stashes, Learning more**
+
+---
 ## **📋 TRELLO**
 #DevTrello #TrelloGuide 
 
