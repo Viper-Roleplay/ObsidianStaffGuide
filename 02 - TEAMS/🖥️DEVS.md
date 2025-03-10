@@ -1,13 +1,68 @@
 #Developers #DeveloperTicket #DevTrello
-## TRELLO
-Access Trello will be given to certain member of staff. 
-📑[Link to Trello](https://trello.com/b/CwyIDn1n/viper-roleplay)
-
-Trello walkthrough:
-https://www.loom.com/share/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8
 
 
-Dev Resources:
+## 🖥️ Meet the Team!**
 
-For Dev's looking to learn more, use the following
-[https://docs.google.com/document/d/11CgxsmelRKYlk603BEI4dfmQnZRLabVNM0EjhVxDDO4/edit#heading=h.4srcq56fa4j2](https://docs.google.com/document/d/11CgxsmelRKYlk603BEI4dfmQnZRLabVNM0EjhVxDDO4/edit#heading=h.4srcq56fa4j2 "https://docs.google.com/document/d/11CgxsmelRKYlk603BEI4dfmQnZRLabVNM0EjhVxDDO4/edit#heading=h.4srcq56fa4j2")
+#Developers  #Dev #DeveloperTicket 
+### **Bobby**  
+- Dev Coordinator  
+- Configs Master  
+- Economy Man  
+- **PD State Command**
+
+### **Cici**  
+- **Lead Developer**  
+- **Restart and Delay Restart for Main**  
+- **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**
+
+### **Heath**  
+- **Graphic Design**  
+- **Good to Ask Questions on Most Staff Topics**  
+- **Can Do UI and UX**
+
+### **Cowboy Frank**  
+- **EMS Dev**  
+- **Restart and Delay Restart for Main**  
+- **Can Push to Main**  
+- **Can Allow Access**  
+- **Can Do UI**  
+- **JavaScript**
+
+### **Liam**  
+- **Business Dev**  
+- **Push to Main**  
+- **Restart and Delay Restart for Main**
+
+### **Scott**  
+- **Config**  
+- **Bobby's Assistant**  
+- **Push for Main**  
+- **PD State Command**
+
+### **Alter**  
+- **Modeling**  
+- **Updates Log Website**
+
+### **Xora**  
+- **Main Heist Dev**  
+- **Gang Dev**
+
+### **Ash**  
+- **Dev Tickets**  
+- **Dev Helper**
+
+## **📋 TRELLO**
+#DevTrello #TrelloGuide 
+
+Access to **Trello** will be granted to certain staff members.  
+📝 [Link to Trello](https://trello.com/b/CwyIDn1n/viper-roleplay)
+## **Trello Walkthrough:**
+🎥 [Watch the Loom Walkthrough](https://www.loom.com/share/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8)
+
+---
+
+### **🚀 Dev Resources:**
+#DevResources
+
+For developers looking to learn more, use the following resource:  
+📄 [Developer Documentation](https://docs.google.com/document/d/11CgxsmelRKYlk603BEI4dfmQnZRLabVNM0EjhVxDDO4/edit#heading=h.4srcq56fa4j2)
