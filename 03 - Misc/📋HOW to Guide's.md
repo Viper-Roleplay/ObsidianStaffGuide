@@ -53,3 +53,18 @@ If a player flies into Viper and gets teleported somewhere else, preventing them
 1. **Teleport to the Coordinates:**
    - Use the following command to teleport to the correct location:
       /tp -1379.1, -470.83, 72.04
+
+---
+
+## **❗ How to End Community Service When Sent for Too Long ❗**
+#CommunityService #/command
+If you ever encounter a situation where someone has been accidentally sent to community service for an excessive amount of time (like 5000 actions!), here’s a quick fix:
+
+🔧 **Command to Fix It:**  
+`/endcomserv ID`
+
+For example:  
+- A cadet mistakenly sent a player to community service for **5000 actions** due to putting the fine in the wrong field.
+
+🔑 Simply use the command above with the **Player's ID** to end their community service and get them back on track!
+
