@@ -49,6 +49,7 @@ weapon_tonyvandal
 weapon_tonyap
 
 ## PETS
+#Pets #Tier1Pet #Tier2Pet
 ### Tier 1 Pets
 
 Hen - [hen] 
@@ -75,47 +76,97 @@ Pitbull - /ft-pitbull - /ft-pitbull2
 COD Ghosts: Riley Puppy German Shepherd - ft-pshepherd (VIP Pro or Elite only) 
 Puppy Husky - ft-phusky (VIP Pro or Elite only)
 Puppy retreiver - ft-pretriever (VIP Pro or Elite only)
-## VIP
+## **VIP Storage**
 
-### Storage
-====================================================== **T1 w/o VIP**
+---
 
-- 2k weight stash w/ 50 slots
-- 1k max Material Storage
+### **T1 Storage**
+- **T1 w/o VIP**  
+    - 2k weight stash w/ 50 slots  
+    - 1k max Material Storage
 
-**T1 w/ VIP Bonus**
+- **T1 w/ VIP Bonus**  
+    - 3k weight stash w/ 50 slots  
+    - 2k max Material Storage
 
-- 3k weight stash w/ 50 slots
-- 2k max Material Storage
+---
 
------------------------------------------------------------------ **T2 w/o VIP**
+### **T2 Storage**
+- **T2 w/o VIP**  
+    - 3k weight stash w/ 100 slots  
+    - 2k max Material Storage
 
-- 3k weight stash w/ 100 slots
-- 2k max Material Storage
+- **T2 w/ VIP Bonus**  
+    - 4k weight stash w/ 100 slots  
+    - 3k max Material Storage
 
-**T2 w/ VIP Bonus**
+---
 
-- 4k weight stash w/ 100 slots
-- 3k max Material Storage
+### **T3 Storage**
+- **T3 w/o VIP**  
+    - 4k weight stash w/ 150 slots  
+    - 3k max Material Storage
 
------------------------------------------------------------------ **T3 w/o VIP**
+- **T3 w/ VIP Bonus**  
+    - 5k weight stash w/ 150 slots  
+    - 4k max Material Storage
 
-- 4k weight stash w/ 150 slots
-- 3k max Material Storage
+---
 
-**T3 w/ VIP Bonus**
+## **Disclaimer About VIP Storage**
 
-- 5k weight stash w/ 150 slots
-- 4k max Material Storage
+- **Non-Renewed VIP Subscription**:  
+  If you do not renew your VIP subscription, you will lose **1k weight** from both your **storage** and **material stash**.  
+  The storage weights for each warehouse (T1-T3) will be adjusted accordingly.
 
-======================================================= **Disclaimer about storages if you no longer subscribe to VIP**
+---
 
-- If you shall not want to subscribe another month of your VIP you will lose 1k weight off BOTH stashes (storage & material)
-- Every warehouse above T1-T3 has the storage weights listed accordingly
+## **Warehouse Management**
 
-**Use /warehouseadmin to open staff menu to GIVE or REMOVE warehouse**
+To give or remove a warehouse, use the command **`/warehouseadmin`** to access the staff menu.
 
-- To give warehouse please use CSN and select storage size (PLEASE select correct size)
-- Theres 3 seperate warehouse locations (Small, Medium or Large)
+- **Giving a Warehouse**:  
+  Use **CSN** and **select the correct storage size**.  
+  Available warehouse sizes:
+  - **Small**
+  - **Medium**
+  - **Large**
 
-If anyone with VIP currently owns a warehouse already, _you will need to REMOVE their current warehouse_ - make sure you're on the real estate house job & press F7 and delete the warehouse and give them a new warehouse ACCORDINGLY depending on their VIP status **PLEASE DO NOT DELETE THE WAREHOUSE WITHOUT HELPING THEM TRANSFER ITEMS IN STASH** VIP PRO - T1 VIP ELITE - T2 **ALL WAREHOUSES COME WITH PUBLIC PARKING**
+---
+
+### **Important Notes for VIP Warehouse Owners**
+
+- If a **VIP player** already owns a warehouse:
+  - You **must remove their current warehouse** before giving them a new one.
+  - Make sure you are in the **Real Estate House Job** and press **F7** to delete the current warehouse.
+  - **Give them a new warehouse based on their VIP status**:
+    - **VIP PRO**: T1 Warehouse
+    - **VIP ELITE**: T2 Warehouse
+
+---
+
+> **Important:**  
+> **DO NOT DELETE A PLAYER'S WAREHOUSE WITHOUT HELPING THEM TRANSFER ITEMS FIRST!**  
+> All warehouses come with **Public Parking**.
+
+
+
+---
+
+# ✨ **Gold Coins Sale Pricing** ✨  
+#GC #GoldCoin
+
+## 🔥 **Limited-Time Discounts!** 🔥  
+
+| 💰 **Gold Coins** | 💰 Original Price | 🎉 **Sale Price** |
+| ----------------- | ----------------- | ----------------- |
+| 100               | $25.00            | **$20.00**        |
+| 200               | $50.00            | **$40.00**        |
+| 300               | $75.00            | **$60.00**        |
+| 400               | $100.00           | **$80.00**        |
+| 650               | $150.00           | **$120.00**       |
+| 800               | $175.00           | **$140.00**       |
+| 1000              | $200.00           | **$160.00**       |
+| 1450              | $300.00           | **$240.00**       |
+
+💸 **Snag these deals before they’re gone!** 🚀
