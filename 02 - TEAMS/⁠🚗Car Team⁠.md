@@ -1,4 +1,4 @@
-#Car #CarTicket #CarTuning
+#Car #CarTeam
 # 🌟 MEET THE TEAM 🌟  
 
 ## 🚗 Car Team Leads  
@@ -26,6 +26,7 @@
 
 ---
 # 🏎️ Vehicle tickets & Organization  
+#Ticket #CarTicket #CarTuning 
 
 🚗 **Where Car-Related Notes Go**  
 We’ve set up **four channels** to keep vehicle notes organized by task. While **specific tasks** for individuals can still go in their respective notes, these channels help us stay coordinated.  
@@ -38,11 +39,28 @@ We’ve set up **four channels** to keep vehicle notes organized by task. While 
 ✅ This system ensures you **always know where each vehicle is in its journey** and what updates to provide to players.  
 
 ⁠🚗・𝐀𝐩𝐩𝐫𝐨𝐯𝐚𝐥𝐬 - Car approvals channel is where staff can throw ticket links and pictures of vehicles that players are inquiring about bringing into the server. ⁠
-🚗・𝐑𝐞𝐚𝐝𝐲-𝐓𝐨-𝐓𝐮𝐧𝐞 - Ready To Tune channel is where staff can throw ticket links and files for vehicles that have been approved and purchased by players to bring into the city. ⁠
+🚗・𝐑𝐞𝐚𝐝𝐲-𝐓𝐨-𝐓𝐮𝐧𝐞 - Ready To Tune channel is where staff can throw ticket links and files for vehicles that have been approved and purchased by players to bring into the city. ⁠**Cars should be paid for before they are put here.**
 🚗・𝘽𝙧𝙤𝙠𝙚𝙣-𝘾𝙖𝙧𝙨 - Broken Cars channel is where staff can throw ticket links and a brief description of any issues with any vehicles. ⁠
 🚗・𝐌𝐨𝐝𝐞𝐥-𝐄𝐝𝐢𝐭𝐬 - Model Edits channel is where staff can throw ticket links, [spawncodes] and a brief rundown of the work that's needed for vehicles that are already in and need love, getting customized, or just need to be debadged and optimized.
 
 --- 
+
+# 🚔🚑 PD/EMS Promo Car Liveries & Conversions  
+#PD #EMS #Livery  
+
+## 🔄 Conversion Rules  
+- **All Whitelisted Promos (PD & EMS) have a civilian promo option.**  
+- If someone **leaves PD/EMS**, they can convert their promo into the **civilian version** **(ONE-TIME ONLY).**  
+- The individual **must be the original Tebex owner** and provide **proof of purchase.**  
+  - ❌ Vehicles bought **in-city from another player** are **not eligible** for conversion.  
+  - 🚫 **No cross-job conversions** (e.g., EMS → PD or PD → EMS).  
+  - ✅ **Only whitelisted → civilian conversions are allowed.**  
+  - ❌ Civilian vehicles **cannot** be converted into whitelisted vehicles.  
+
+This ensures **fairness and clarity** in the conversion process. 🚗💨  
+
+---
+
 ## 📄 **Documents** 
 ⚠️ *These documents are useful when kept updated, but be aware they may not always be current!* 
 
