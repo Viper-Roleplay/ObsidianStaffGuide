@@ -68,3 +68,26 @@ For example:
 
 🔑 Simply use the command above with the **Player's ID** to end their community service and get them back on track!
 
+---
+
+## **🎮 How to Give Battlepass & Battlepass Levels**
+
+### **For Staff/High Command Discretion Only:**
+#BattlePass #BattlePassXP
+To give a staff member the **Battlepass** or when **High Command** instructs you to, use the following command:
+
+🔑 **To grant the Battlepass:**
+
+/setbattlepasspremium (ID) (1)
+
+❌ **To undo this (remove the Battlepass):**
+
+/setbattlepasspremium (ID) (0)
+
+![[Pasted image 20250310143103.png]]
+
+### **To Give Battlepass Levels (After Confirming Payment)**
+
+📝 **Confirm payment first, then** to give someone Battlepass XP, use:
+
+/addbattlepassxp (ID) (45000)
