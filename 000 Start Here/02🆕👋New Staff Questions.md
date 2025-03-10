@@ -1,5 +1,6 @@
 
 # 📝 **How to Get Access to Trello & Logs**
+#TrelloSetUp #TrelloGuide #DevTrello
 
 ## 🔹 **Trello Access**  
 To get access to Trello, follow these steps:
