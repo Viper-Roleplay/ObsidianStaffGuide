@@ -1,4 +1,4 @@
-
+#VIP #Pro #Elite #Essential
 # 👑 VIP Support Guide 
 ## 🔹 VIP Role Assignment 
 When someone **purchases VIP**, they should automatically receive the role matching their VIP tier: 
