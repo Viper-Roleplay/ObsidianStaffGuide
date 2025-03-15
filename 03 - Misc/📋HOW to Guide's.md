@@ -2,13 +2,21 @@
 ## Locks 
 #Locks
 Here is a video on how to use the lock script
-https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=28d09adb-6a48-4665-bb9b-9841ea39a251
+<iframe src="https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=28d09adb-6a48-4665-bb9b-9841ea39a251" 
+        frameborder="0" 
+        allowfullscreen 
+        width="640" 
+        height="360"></iframe>
 
 ---
 ## Announcements
 #Announcements
 Here is a video on how to use the Announcement Menu
-https://www.loom.com/share/2d01c2c310c54f0dae3d0163df8f8e9d?sid=7d7af74d-b864-4a63-b115-e92071d0ed5d
+<iframe src="https://www.loom.com/share/7f77f26eb37f4947a557c679ef96c310?sid=9c372043-810a-4e57-bf8c-fea874cd8448" 
+        frameborder="0" 
+        allowfullscreen 
+        width="640" 
+        height="360"></iframe>
 
 ---
 ## 📺✅ Give TV Allowance
