@@ -189,7 +189,7 @@ To transfer assets on Keymaster, follow these steps:
 
 **Tip**: Ensure the recipient's account is valid before transferring assets to avoid issues.
 
-For a step-by-step walkthrough, watch this [video tutorial](https://youtu.be/_Aof5udsZMQ).
+For a step-by-step walkthrough, watch this: <iframe width="560" height="315" src="https://www.youtube.com/embed/_Aof5udsZMQ?si=Gi5dAFQIeUGPdOon" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
