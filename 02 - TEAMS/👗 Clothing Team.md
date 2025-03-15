@@ -1,4 +1,4 @@
-#Clothing #ClothingTicket
+#Clothing #ClothingTicket #ClothingTeam 
 # 🌟 **MEET THE TEAM** 🌟
 
 - **Merlin**: Clothing Team Dev _(also stinky)_

@@ -1,4 +1,4 @@
-#Gun #GunTicket #GunTrello
+#Gun #GunTicket #GunTrello #GunTeam 
 # 🌟 MEET THE TEAM 🌟
 ###### **Brian** — *Lead Gun Developer* 
 ###### **Suga** — *Gun Developer* 

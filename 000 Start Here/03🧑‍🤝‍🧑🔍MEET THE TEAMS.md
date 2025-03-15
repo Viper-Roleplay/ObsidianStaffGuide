@@ -1,6 +1,6 @@
 # 💼 **Team Structure**
 
-## #Developers  
+## #Developers  #Dev 
 ### **Bobby**  
 - Dev Coordinator  
 - Configs Master  
@@ -65,7 +65,7 @@
 
 ---
 
-## #Car  
+## #Car  #CarTeam 
 ### **Creamy Frank**  
 - **Car Team Head**  
 - **Weekly Promo**  
@@ -103,7 +103,7 @@
 
 ---
 
-## #Gun  
+## #Gun  #GunTeam
 ### **Brian**  
 - **Anything Gun-Related (Push/Fix/Break/Refix)**  
 - **Upload to TikTok/YouTube/Mastodon (FiveM Page, etc.)**  
@@ -132,7 +132,7 @@
 
 ---
 
-## #Clothing  
+## #Clothing  #ClothingTeam
 ### **Merlin**  
 - **One of the Lead Clothing Devs**  
 - **Can Restart Main**  
