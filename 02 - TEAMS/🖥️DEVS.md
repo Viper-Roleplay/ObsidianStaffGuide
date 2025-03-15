@@ -54,6 +54,38 @@ Access to **Trello** will be granted to certain staff members.
 
 ---
 
+# 🎟️ Dev Tickets  
+#DeveloperTicket 
+
+When someone in the city has a mechanical issue with a script, they will open a ticket. Before reaching out to the dev team, gather as much information as possible.  
+
+## ❓ Questions to Ask:  
+- **What exactly were you doing when the error occurred?**  
+- **Does this happen every time, or is this the first time?**  
+- **Can you submit a clip of the issue?**  
+- **Do you have all the necessary items?**  
+- **Are there any errors in your F8 console?**  
+  - _(For those who don’t know, open your F8 console in the city and take a screenshot. Errors will likely appear as red lines of code.)_  
+
+## 🔍 Next Steps:  
+
+1. **Test the issue yourself.**  
+   - Many times, players assume something is broken when they may not be using it correctly.  
+   - By testing first, you can prevent unnecessary escalations to the dev team.  
+
+2. **Report only verified issues.**  
+   - If the issue is reproducible and clearly broken, escalate it to the dev team with all gathered information.  
+
+3. **Log the issue in Trello.**  
+   - Create a Trello card for the issue and **link the ticket** for reference.  
+   - Move the ticket to the **Dev Section**.  
+   - Ensure the ticket remains **open** until the dev team confirms it can be closed.  
+
+By following this process, you can save the dev team time and reduce unnecessary troubleshooting. 🚀  
+
+
+---
+
 ### **🚀 Dev Resources:**
 #DevResources
 
