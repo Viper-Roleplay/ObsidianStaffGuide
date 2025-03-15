@@ -16,6 +16,7 @@ Your main objective is to **get a ticket moving** before handing it off to the a
 ✅ Review each team's info to learn the required **starting details** for different ticket types.  
 
 ## 📌 General Ticket Information  
+
 Below are some examples of **non-team-specific info** that should be on hand. Additionally, we have a set of **`!commands`** to quickly provide details on various topics.  
 
 💡 _By staying informed and proactive, you can ensure smoother ticket resolutions and better team collaboration!_ 🚀  
