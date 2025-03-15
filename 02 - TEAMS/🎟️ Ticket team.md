@@ -23,7 +23,7 @@ When a **Tebex** payment ticket comes through, the first step is to rename the t
 When a player buys a house, ask for the following:
 
 1. **Screenshot of the house's location** (outside view)
-2. **Desired interior** (after sharing the showcase video from the real estate channel: [YouTube Link](https://www.youtube.com/watch?v=g1sLWiCE1vE))
+2. **Desired interior** (after sharing the showcase video from the real estate channel:<iframe width="560" height="315" src="https://www.youtube.com/embed/g1sLWiCE1vE?si=xVOVCoRJ_efxboaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Be sure to remind the player to keep the interior in line with the property’s style for realism. Once the required details are provided, tag the **Real Estate Team** or personally DM them the ticket link for further processing.
 
