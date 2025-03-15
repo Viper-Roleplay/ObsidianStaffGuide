@@ -4,9 +4,22 @@ If you have any questions regarding tickets and you're unsure who to send it to 
 
 ---
 
-## Answering Tickets
+# 🎫 Answering Tickets  
 
-Each team has a guideline for starting off their tickets under their respective team guides. These guides are essential to help you support the team effectively. Even if you can't directly tune cars, you can assist with finding details about the car or providing basic info regarding the cost of 1of1s.
+Each team has a guideline for starting off their tickets under their respective **team guides**. These guides are essential to help you support the team effectively. Even if you can't directly tune cars, you can still assist by:  
+- Finding details about a car. 🚗  
+- Providing basic info regarding the cost of **1of1s**. 💰  
+
+## 🎯 Your Goal as Ticket Team  
+Your main objective is to **get a ticket moving** before handing it off to the appropriate team. You can:  
+✅ Observe how others handle tickets.  
+✅ Review each team's info to learn the required **starting details** for different ticket types.  
+
+## 📌 General Ticket Information  
+Below are some examples of **non-team-specific info** that should be on hand. Additionally, we have a set of **`!commands`** to quickly provide details on various topics.  
+
+💡 _By staying informed and proactive, you can ensure smoother ticket resolutions and better team collaboration!_ 🚀  
+
 
 ---
 
