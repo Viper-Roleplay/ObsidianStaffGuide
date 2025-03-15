@@ -57,8 +57,8 @@ If you have any issues, feel free to reach out for help! 🌟
 [Click here to access logs](http://23.26.121.106:8080/login)  
 
 ### **How to Get Access:**  
-1. Choose your own **login** and **password**.  
-2. Send a **DM** to **Liz** or **Alter** to be set up in the system.  
+1. Choose your own **login** and **password**. 
+2. Send a **DM** to **Liz** or **Alter** or **Cici** to be set up in the system.  
 
 ✅ Once approved, you’ll be able to log in and view logs as needed.  
 
