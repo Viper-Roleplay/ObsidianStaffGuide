@@ -1,10 +1,21 @@
+# 🌟 Meet the Team 🌟
 
-# 🌟 MEET THE TEAM 🌟
+### 👤 Brooke  
+*Role:* Manages whitelists, AC bans, and AC unbans  
 
-	Brooke - Manages whitelists/AC Bans/AC Unbans
-	Jaxson - Manages exploits/dupers/surveilance
+### 👤 Jaxson  
+*Role:* Oversees exploits, dupers, and surveillance  
 
-## 🌟 Notes Channel 🌟
+---
 
-This is the place where anti cheat issues/appeals will go, if you want to be an absolute babe if the person making the ticket doesn't put their ban license  you can copy their discord ID and paste it into the search bar and find the "License Ban ID:" and paste that set of numbers in the ticket.
+## 🌟 Notes Channel 🌟  
 
+This is the hub for anti-cheat issues and appeals.  
+
+💡 **Pro Tip:** If a ticket is missing a **Ban License ID**, you can quickly retrieve it:  
+1. Copy the user's **Discord ID**  
+2. Paste it into the search bar  
+3. Look for **"License Ban ID:"**  
+4. Copy and paste that number into the ticket  
+
+You're an absolute legend for helping out! 🚀✨  
