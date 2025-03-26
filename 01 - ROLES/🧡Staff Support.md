@@ -1,10 +1,39 @@
 #StaffSupport #zdiscord 
 
-Welcome to Staff Support!
+# 🎉 Welcome to Staff Support!  
 
-Once you get promoted to Staff Support your responsibility increases! You now have the power to give items and assist Moderators! This will be done using ZDiscord which you will read more about below. Alongside ZDiscord, you will now be expected to lead tickets more. You have some experience with tickets and should be able to direct all tickets to necessary teams/individuals as well as ask the priming questions to get a ticket going. If you need a refresher, check out all the Team sections below to learn what each team needs!
+Congratulations on your promotion to **Staff Support**! With this new role, your responsibilities increase, and you gain additional tools to assist the team effectively.  
 
-You should also start thinking about what team you want to join! Staff has a lot of options to assist the city further and all teams could use assistance. Once you decide what team sounds interesting to you, reach out to the head/lead for that team to learn more!
+---
+
+## 🛠️ Your New Responsibilities  
+
+As a Staff Support member, you now have the ability to:  
+
+✅ **Give items** to players when necessary.  
+✅ **Assist Moderators** in handling various tasks.  
+✅ **Lead tickets** more effectively by directing them to the correct teams/individuals.  
+✅ **Ask the right questions** to get tickets moving efficiently.  
+
+You will be using **ZDiscord** for item distribution and other staff-related functions. More details on ZDiscord can be found below.  
+
+📌 **Need a refresher?**  
+Check out the team sections below to understand what each team requires for handling tickets properly.  
+
+---
+
+## 🚀 Choosing Your Staff Team  
+
+Staff has **many different teams** that help support the city in unique ways. Every team could use assistance, and now is a great time to think about where you’d like to contribute!  
+
+📌 **Next Steps:**  
+1. Explore the available staff teams.  
+2. Find one that interests you.  
+3. **Reach out** to the head/lead of that team to learn more!  
+
+Your journey in **Staff Support** starts now—step up, take charge, and help make the city even better! 🚀  
+
+---
 
 ## ⁠**⚡𝗭𝗗𝗶𝘀𝗰𝗼𝗿𝗱**
 Once you become a staff support you are able to have access to ZDiscord. In the main Viper cord there is a category at the top of the discord channels called 🔒𝙎𝙩𝙖𝙛𝙛 𝙕𝙤𝙣𝙚🔒 in there you will find ⚡𝗭𝗗𝗶𝘀𝗰𝗼𝗿𝗱. In this channel you will do "/" and select ViperModeration for any of the commands you want to use.
