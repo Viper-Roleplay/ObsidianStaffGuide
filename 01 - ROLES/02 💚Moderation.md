@@ -1,6 +1,6 @@
 ## Welcome to Moderator!  
 # ⚡ Fresh Powers  
-
+#Powers #Moderator
 Congratulations on becoming a **Moderator**! 🎉  
 You now have access to a **new arsenal** of powers, commands, and abilities to support your fellow staff and the city as we continue to grow.  
 
@@ -17,6 +17,41 @@ Having powers is a **big step up** from Staff Support, bringing **greater respon
 - If you need to spawn a vehicle:  
   - **Use a parking lot** to make it look like it’s coming out of a garage.  
   - Maintain **city realism**.  
+
+---
+
+# 📢 Handling In-City Reports  
+#Reports
+A **major responsibility** as a **Moderator** is responding to **player reports** in the city! Reports will:  
+✅ **Appear in the top right** of your screen.  
+✅ **Play a sound** when received.  
+
+These reports **should NEVER be ignored**—they come from players experiencing **issues** that need staff assistance.  
+
+---
+
+## 🛠️ How to Assist  
+
+1️⃣ **Open your 919 Menu** and navigate to **Reports**.  
+2️⃣ Review the details of the report to determine the issue.  
+3️⃣ **Take action based on the situation:**  
+   - **Stuck Player?**  
+     - TP to them and help them get unstuck.  
+   - **Modder Report?**  
+     - TP to the reporter and attempt to locate the suspect.  
+     - **Warn/Kick/Ban** as necessary depending on the situation.  
+
+---
+
+## 🧠 Using Your Best Judgment  
+
+- If a player reports that **EMS hasn’t helped them in 20+ minutes**:  
+  ✅ **Check if EMS is online** and determine if they need help.  
+  ✅ EMS may be **backed up**, and support might be needed.  
+  ❌ Some players may **lie** to get a **quick revive**—always verify first!  
+
+By staying **proactive** and using **good judgment**, you help keep the city **fair and enjoyable** for everyone. Keep up the great work! 🚀  
+
 
 ---
 
