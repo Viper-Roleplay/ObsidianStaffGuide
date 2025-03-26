@@ -36,7 +36,8 @@ Gun Trello is used to track all gun issues for the gun team to handle tickets mo
 
 ⚠️ **When giving out guns, spawn them one at a time!** Otherwise, their serial numbers will **duplicate.** 
 
-🎥 **Watch this video on what to do and not to do:** 📺 [Gun Duping Guide](https://youtu.be/WD37QqBdprk) 
+🎥 **Watch this video on what to do and not to do:** 📺 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQ90GkUEQb8?si=hRdBxP0VkLwJvkkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
