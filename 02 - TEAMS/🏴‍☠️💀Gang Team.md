@@ -11,4 +11,69 @@
 
 ---
 
-If you take 6th slots from gang members for (shooting while ems on scene, gun out on scene, killing while on scene): **Stash**: /openstash ems6slot
+# Gang Coordinator Guidelines  
+
+### Staff-Only Gang Coordination  
+Only select members of staff are allowed to work as gang coordinators. This is because the rules differ for both whitelisted and non-whitelisted gangs.  
+
+If you plan to assist in any way, please make sure to **read the gang rules** and ensure that the information you provide is accurate.  
+
+🔗 **Whitelisted Gang Rules:**  
+[Gang Rules Document](https://docs.google.com/document/d/155IUUbFjmNX8GW27D7bh9T34oZggxNU4yj81rUJuRpQ/edit "Whitelisted Gang Rules")  
+
+---
+
+  #NewGang  
+
+### 🆕New Gang Inquiry Tickets  
+If someone opens a ticket inquiring about starting a gang, you can request the following details to assist the gang coordinators:  
+
+1. **Gang Name**  
+2. **How many members** (Minimum **10 members** required)  
+3. **Gang Colors**  
+   - White and black **cannot** be primary colors.  
+   - A **main** color is required.  
+4. **Potential Block Location**  
+5. **Do you have a gang Discord?**  
+   - If not, provide them with this template:  
+     🔗 [Create a Gang Discord](https://discord.new/9eFSE4AGx2RC "Gang Discord Template")  
+
+These details are subject to **approval by gang coordinators**, but gathering this information helps move things forward.  
+
+📌 **Next Steps:**  
+- Once you have gathered the required details, **link the ticket to the gang coordinators** in the staff Discord.  
+- Move the ticket to the **gang coordinator section**.  
+
+
+---
+
+ #GangTicket  
+### 🎫 Gang Interaction Tickets  
+If someone opens a ticket regarding a **gang issue**, forward it to the **gang coordinators immediately**.  
+
+📌 **Clip Requirements:**  
+- The clip must be **at least 2 minutes long**.  
+- It must be from the **last 24 hours**.  
+- It must include the **entire interaction**.  
+- Need ALL audio (includes themselves)
+
+🚨 **Invalid Clips:**  
+❌ Less than 2 minutes.  
+❌ Older than 24 hours.  
+❌ Lacks full context.  
+❌ Missing audio
+
+Any clip that does not meet these criteria is **void** and cannot be used.  
+
+---
+
+## ⚠️ 6th Slot Management  
+
+If you take **6th slots** from gang members due to the following reasons:  
+- **Shooting while EMS is on scene**  
+- **Having a gun out while EMS is on scene**  
+- **Killing while EMS is on scene**  
+
+Use the following command to stash their items:  
+
+Stash: /openstash ems6slot
