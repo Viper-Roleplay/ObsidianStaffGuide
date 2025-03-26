@@ -21,6 +21,40 @@ You will be using **ZDiscord** for item distribution and other staff-related fun
 Check out the team sections below to understand what each team requires for handling tickets properly.  
 
 ---
+# 🚨 Staff Support & Economy Restrictions  
+
+## ❌ No Longer Part of the Economy  
+
+As **Staff Support**, you now have the ability to **give items** and **manage in-city resources**. Because of this, you are **no longer allowed** to participate in the economy.  
+
+🚫 **You CANNOT:**  
+- Buy vehicles from the **used car lot**.  
+- Purchase **upgrades** for vehicles or properties.  
+- Give **money/items** to friends or other players.  
+
+---
+
+## 📸 Important First Steps  
+
+🔹 **Document Everything You Own**  
+1. Take **screenshots** of:  
+   - Your **cash & bank balance**.  
+   - All **stashes & inventories**.  
+2. Send these screenshots to **Liz** for safekeeping.  
+
+📌 **Why?**  
+If you ever decide to leave staff, your documented **items & money** will be **returned**. However, anything obtained **after this point** will **not** be restored.  
+
+---
+
+## 💰 IRL Purchases  
+
+🔸 If you purchased anything with **real money** (e.g., **Promo/Pre-Order Packs**), you will get these items back.  
+🔸 Make sure to keep **ticket transcripts** for proof of purchase.  
+
+By following these steps, you ensure a **smooth transition** into your Staff Support role while maintaining **fairness** in the economy! 🚀  
+
+---
 
 ## 🚀 Choosing Your Staff Team  
 
@@ -33,8 +67,8 @@ Staff has **many different teams** that help support the city in unique ways. Ev
 
 Your journey in **Staff Support** starts now—step up, take charge, and help make the city even better! 🚀  
 
----
 
+---
 ## ⁠**⚡𝗭𝗗𝗶𝘀𝗰𝗼𝗿𝗱**
 Once you become a staff support you are able to have access to ZDiscord. In the main Viper cord there is a category at the top of the discord channels called 🔒𝙎𝙩𝙖𝙛𝙛 𝙕𝙤𝙣𝙚🔒 in there you will find ⚡𝗭𝗗𝗶𝘀𝗰𝗼𝗿𝗱. In this channel you will do "/" and select ViperModeration for any of the commands you want to use.
 
