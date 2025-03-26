@@ -1,5 +1,5 @@
 # 🌟 Meet the Team 🌟
-
+#Fini #Ban #Bans
 ### 👤 Brooke  
 *Role:* Manages whitelists, AC bans, and AC unbans  
 
