@@ -66,7 +66,7 @@ If someone opens a ticket regarding a **gang issue**, forward it to the **gang c
 Any clip that does not meet these criteria is **void** and cannot be used.  
 
 ---
-
+#GangSwap 
 # 🏴 Gang Leave Request Guide  
 
 ## 🚨 Requests When Leaving a Gang  
