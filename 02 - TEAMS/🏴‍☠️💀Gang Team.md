@@ -67,6 +67,26 @@ Any clip that does not meet these criteria is **void** and cannot be used.
 
 ---
 
+# 🏴 Gang Leave Request Guide  
+
+## 🚨 Requests When Leaving a Gang  
+
+When a gang member leaves a gang, they have a cooldown before they can join another. Some members may request a reduction in this cooldown by opening a ticket.  
+
+### ❓ What to Ask the Player  
+Before forwarding the request, gather the following information:  
+1. **Why are you leaving?**  
+2. **What gang are you trying to join?**  
+3. **What gang are you leaving?**  
+
+### 📌 Next Steps  
+🔹 Once you’ve collected these answers, **forward the ticket** to the **Gang Coordinator section** in the Staff Discord.  
+🔹 **Move the ticket** to the appropriate section.  
+
+✅ **Done!** The Gang Coordinator team will handle it from here.  
+
+
+---
 ## ⚠️ 6th Slot Management  
 
 If you take **6th slots** from gang members due to the following reasons:  
