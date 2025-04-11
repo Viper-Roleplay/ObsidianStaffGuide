@@ -69,16 +69,16 @@
 ## **PETS**  
 #Pets #Tier1Pet #Tier2Pet  
 ### **Tier 1 Pets**
-- **Hen** -  /hen
-- **Pig** - /pig
-- **Rabbit** - /rabbit
-- **Cat** - /cat
-- **Pug** - /pug
-- **Highland Terrier** - /highlandterrier
-- **Golden Retriever** - /retriever
-- **Poodle** - /poodle
-- **Rottweiler** - /rottweiler
-- **Husky** - /husky
+- 🐾**Hen** -  /hen
+- 🐾**Pig** - /pig
+- 🐾**Rabbit** - /rabbit
+- 🐾**Cat** - /cat
+- 🐾**Pug** - /pug
+- 🐾**Highland Terrier** - /highlandterrier
+- 🐾**Golden Retriever** - /retriever
+- 🐾**Poodle** - /poodle
+- 🐾**Rottweiler** - /rottweiler
+- 🐾**Husky** - /husky
 
 ---
 
@@ -95,6 +95,18 @@
 - **COD Ghosts: Riley Puppy German Shepherd** - `/ft-pshepherd` (VIP Pro or Elite only)
 - **Puppy Husky** - `/ft-phusky` (VIP Pro or Elite only)
 - **Puppy Retriever** - `/ft-pretriever` (VIP Pro or Elite only)
+-  🐾 **Rottweiler Pup** — `rottweilerpup`
+- 🐾 **Light Brown Pitbull Pup** — `lightbrownpitbullpup`
+- 🐾 **Grey Pitbull Pup** — `greypitbullpup`
+- 🐾 **Light Grey Pitbull Pup** — `lightgreypitbullpup`
+- 🐾 **White Aussie Pup** — `whiteaussiepup`
+- 🐾 **Black Tri Aussie Pup** — `blacktriaussiepup`
+- 🐾 **Black Pitbull Pup** — `blackpitbullpup`
+- 🐾 **Red Tri Aussie Pup** — `redtriaussiepup`
+- 🐾 **Buckskin Pitbull Pup** — `buckskinpitbullpup`
+- 🐾 **Blue Merle Aussie Pup** — `tanpointbluemerleaussiepup`
+- 🐾 **Tigerbay Pitbull Pup** — `tigerbaypitbullpup`
+
 
 ---
 
