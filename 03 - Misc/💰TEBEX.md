@@ -47,6 +47,28 @@
 - **1x** Avisa Submarine - `{avisa}`
 - **1x** SeaDoo GTI 215 Jetski and Trailer - `{seadoogti215}` & `{seadoohauler}`
 
+## 🛥️ Boat Categories
+
+#### > Large Fishing Boats — `300gc`
+- **hydrasport53**
+- **42ftyellowfin**
+- **52ftsportfish**
+
+#### > Luxury Boats — `200gc`
+- **mti**
+- **frauscher16**
+- **tritoon**
+- **topgun39**
+- **mystic800**
+- **mystic**
+- **avisa**
+- **longfin**
+- **hydroplane**
+- **airboat**
+#### > Small Boats — `100gc`
+- **nautique**
+- **keywest**
+
 ---
 
 ### **Tony's Pack**  
