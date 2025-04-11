@@ -39,7 +39,7 @@
 ---
 
 #### **Fishing Package**
-#FishingPack
+#FishingPack #Boats
 - **1x** 2017 Ram 2500 Forgiato Edition - `{ram2500forg}`
 - **1x** Large Fishing Boat of Your Choice
 - **1x** Small Fishing Boat of Your Choice
