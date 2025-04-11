@@ -66,3 +66,40 @@ To handle Anti-Cheat Ban Appeals:
 2. **Ticket Renaming**: Rename the ticket to _discord username_-ban-appeal.
 3. **Ticket Movement**: Move the ticket to the **Anti-Cheat Bans** section.
 4. **Staff Discord**: Post the ticket in the **Anti-Cheat-Unbans** channel in Staff Discord.
+
+---
+#ServerIssue #ServerIssueReprot
+## 🛠️ Server Issue Report Template
+
+> Use this form when reporting any server issues. Let’s keep things tidy and helpful! 🌟
+
+#### 🕒 Time of Issue
+`e.g. 8 PM EST`
+
+#### 📝 Description of the Issue
+`e.g. Crashed with big group at event`
+
+#### 👥 Number of People Affected
+`e.g. 10–15 players`
+
+#### 📍 Player Location (Where it happened?)
+`e.g. Pillbox`
+
+#### 🎉 Was there an event going on? How many attended?
+`e.g. Yes, over 40 people`
+
+#### 🌆 Current Number of People in the City
+`e.g. 140`
+
+#### ❗ Error Code on Crash
+`e.g. Yes, I checked: GTAb2699etg`
+
+#### 🚫 Error Code on Join Attempt
+`e.g. Failed to handshake`
+
+#### 🔍 Did you check the usual suspects?
+- **FiveM down?** `e.g. Yes I checked, no reports on Downdetector`
+    
+- **Cloudflare status?** `e.g. Yes I checked, no issues`
+    
+- **CFX status?** `e.g. Yes I checked, no outages reported`
