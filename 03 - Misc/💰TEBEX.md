@@ -105,18 +105,6 @@
 ---
 
 ### **Tier 2 Pets**
-- **Bull Terrier** - `/highlandterrier`
-- **French Bulldog** - `/ft-pbulldog` or `/ft-pbulldog2`
-- **Akita Inu** - `/akita_inu`
-- **Yorkshire Terrier** - `/yorkshire`
-- **Jack Russel** - `/russel`
-- **Dalmatian** - `/dalmatian`
-- **Dane** - `/dane`
-- **Doberman** - `/doberman`
-- **Pitbull** - `/ft-pitbull` or `/ft-pitbull2`
-- **COD Ghosts: Riley Puppy German Shepherd** - `/ft-pshepherd` (VIP Pro or Elite only)
-- **Puppy Husky** - `/ft-phusky` (VIP Pro or Elite only)
-- **Puppy Retriever** - `/ft-pretriever` (VIP Pro or Elite only)
 -  🐾 **Rottweiler Pup** — `rottweilerpup`
 - 🐾 **Light Brown Pitbull Pup** — `lightbrownpitbullpup`
 - 🐾 **Grey Pitbull Pup** — `greypitbullpup`
