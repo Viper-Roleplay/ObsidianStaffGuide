@@ -19,3 +19,29 @@ At this level, you should be **gaining expertise** in city operations and **beco
 - **Lead by example** and help maintain a professional, organized environment.  
 
 Your journey as an Admin is just beginning—keep up the great work! 🎯  
+
+---
+### 📢 Announcement Commands
+- **`/announcement [message]`**  
+  ➤ Sends an announcement.  
+  **Arguments:** `message` *(STRING, required)*
+
+---
+### 📦 Resource Management
+- **`/resource start [resource]`**  
+  ➤ Starts a resource.  
+  **Arguments:** `resource` *(STRING, required)*
+
+- **`/resource stop [resource]`**  
+  ➤ Stops a resource.  
+  **Arguments:** `resource` *(STRING, required)*
+
+- **`/resource refresh`**  
+  ➤ Refreshes all resources.  
+  **Arguments:** *None*
+
+- **`/resource list`**  
+  ➤ Lists all resources.  
+  **Arguments:** *None*
+
+---
