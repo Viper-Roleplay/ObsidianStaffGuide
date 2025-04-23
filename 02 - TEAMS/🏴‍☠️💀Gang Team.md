@@ -7,6 +7,8 @@
 - **Maurice** – _Papa Gang Coordinator_ 
 - **Ploo** – _Gang Coordinator_ 
 - **Suga** – _Gang Coordinator_ 
+- **Rue** – _Gang Coordinator_
+- **Liz** – _Gang Coordinator_
 - **Frosty** – _Gang Godfather_ 
 
 ---
