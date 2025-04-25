@@ -99,3 +99,29 @@ If you take **6th slots** from gang members due to the following reasons:
 Use the following command to stash their items:  
 
 Stash: /openstash ems6slot
+
+---
+
+##  ![📱](https://discord.com/assets/a1ba0dd930cfd819.svg) **Phone Wars**
+#PhoneWars #War 
+If you're assisting with a phone war in the city, please follow the guidelines below:
+
+###  ![💰](https://discord.com/assets/60e4658040396168.svg) **Supplies & Charges**
+
+- Charge **appropriately** for **ammo, blunts, and speed items** — absolutely **no freebies**.
+- Gangs are expected to come **fully prepared** at the start of the war. Staff assistance should only be provided **mid-war** if necessary.
+
+###  ![⏱️](https://discord.com/assets/0936447be3e254dd.svg) **Starting the War**
+
+- Use **`/announcementmenu`** to begin the war.
+- Set the **radius to 150**.
+- Give a **clear 5–10 second countdown** before initiating.
+- **Ensure both gangs are at their designated spawn points** — no early starts allowed.
+
+###  ![🩹](https://discord.com/assets/77a73cba6ee1ba36.svg) **Aftermath**
+
+Once **one gang has fully eliminated the other**, you may:  
+
+- Use **`/revivearea 150`** to revive all players within the area.
+
+Following these steps ensures fairness and smooth operation during phone war events.
