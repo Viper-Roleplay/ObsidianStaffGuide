@@ -28,6 +28,7 @@ Your journey as an Admin is just beginning—keep up the great work! 🎯
 
 ---
 ### 📦 Resource Management
+#ResourceManagement
 - **`/resource start [resource]`**  
   ➤ Starts a resource.  
   **Arguments:** `resource` *(STRING, required)*
