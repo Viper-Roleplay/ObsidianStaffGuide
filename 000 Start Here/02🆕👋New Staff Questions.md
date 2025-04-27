@@ -10,8 +10,7 @@ To get access to Trello, follow these steps:
      [**Trello Viper Roleplay Board**](https://trello.com/b/CwyIDn1n/viper-roleplay)
 
 2. **Enter the UN/PW**  
-   - Username: **viperroleplay2024@gmail.com**  
-   - Password: **llag2023**  
+   - Username: **viperroleplay2024@gmail.com**
 
 3. **Google Authenticator**  
    - Once you log in, you’ll be prompted for a **Google Authenticator Code**.  
