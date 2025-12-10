@@ -23,10 +23,6 @@
   - **Role**: **EMS Dev**  
   - **Specialty**: **Restart and Delay Restart for Main**, **Can Push to Main**, **Can Allow Access**, **Can Do UI**, **JavaScript**  
 
-- **Liam**:  
-  - **Role**: **Business Dev**  
-  - **Specialty**: **Push to Main**, **Restart and Delay Restart for Main**  
-
 - **Scott**:  
   - **Role**: **Config**, **Bobby's Assistant**, **Push for Main**, **PD State Command**  
 
@@ -35,9 +31,6 @@
 
 - **Ash**:  
   - **Role**: **Dev Assistant, Stashes, Learning more**
-
-- **Mo**:  
-  - **Role**: **Dev, Liam's Secretary**
 
 ---
 ## **📋 TRELLO**
