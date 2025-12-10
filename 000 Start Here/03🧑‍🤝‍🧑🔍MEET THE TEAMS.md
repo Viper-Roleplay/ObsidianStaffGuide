@@ -12,11 +12,6 @@
 - **Restart and Delay Restart for Main**  
 - **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**
 
-### **Heath**  
-- **Graphic Design**  
-- **Good to Ask Questions on Most Staff Topics**  
-- **Can Do UI and UX**
-
 ### **Cowboy Frank**  
 - **EMS Dev**  
 - **Restart and Delay Restart for Main**  
@@ -25,20 +20,11 @@
 - **Can Do UI**  
 - **JavaScript**
 
-### **Liam**  
-- **Business Dev**  
-- **Push to Main**  
-- **Restart and Delay Restart for Main**
-
 ### **Scott**  
 - **Config**  
 - **Bobby's Assistant**  
 - **Push for Main**  
 - **PD State Command**
-
-### **Alter**  
-- **Modeling**  
-- **Updates Log Website**
 
 ### **Xora**  
 - **Main Heist Dev**  
@@ -51,29 +37,24 @@
 ---
 
 ## #FINI  
-### **Brooke**  
+### **Brian**  
 - **Unban from Anticheat**  
 - **Whitelist to Anticheat**  
 - **Anticheat (Fix Modders Spawning Vehicles/Objects, Anticheat False Bans)**  
 - **Helps FINI**  
-- **PC Checker**
 
-### **Jaxson**  
-- **Unban from Anticheat**  
-- **Whitelist to Anticheat**  
-- **Anticheat (Fix Modders Spawning Vehicles/Objects, Anticheat False Bans)**
 
 ---
 
 ## #Car  #CarTeam 
-### **Creamy Frank**  
+### **Carlos**  
 - **Car Team Head**  
 - **Weekly Promo**  
 - **Models Cars (Can Add Models, Change Features, Add PD/EMS Lights, Props/Guns, Tires)**  
 - **Admin Car / Push Cars to Main Server**  
 - **Can Tune if Needed**
 
-### **Tyler**  
+### **Kane**  
 - **Assistant Head of Car Team**  
 - **Anything Car-Related**  
 - **Push Cars and Admin Car**  
@@ -82,24 +63,11 @@
 - **2nd in Command of Car Team**  
 - **PD State Command**
 
-### **Phil**  
+### **Ethin**  
 - **Car Tuner**  
 - **Learning Modeling/More**
+-  **1of1 Approval Help**
 
-### **Carlos Way**  
-- **Car Tuner**  
-- **Learning Modeling/More**
-
-### **Meewel**  
-- **Car Tuner**  
-- **Learning Modeling/More**  
-- **Can Push Cars to City**
-
-### **Tobey**  
-- **Car Tuner**
-
-### **Dev**  
-- **1of1 Approval Help**
 
 ---
 
@@ -113,28 +81,22 @@
 - **Tattoos**
 
 #### **If Needed**  
-- **Can Do Clothes**  
-- **Can Do Photoshop (Resize/Recolor/Artistic Design)**  
-- **Can Tune Cars**  
+- **Can Do Photoshop (Resize/Recolor)
 - **Can Whitelist to Anticheat**  
 - **Can Unban from Anticheat**  
 - **Can Optimize Cars**  
 - **Can Push Car / Admin Car**  
 - **Can Ban**
 
-### **Suga**  
-- **Gun Team Dev**  
-- **Gang Coordinator**
-
-### **Sam**  
+### **Gracie**  
 - **Gun Team Trainee**  
 - **Real-estate Team**
 
 ---
 
 ## #Clothing  #ClothingTeam
-### **Merlin**  
-- **One of the Lead Clothing Devs**  
+### **Bobby**  
+- **The Lead Clothing Devs**  
 - **Can Restart Main**  
 - **Custom Chains/Clothing**  
 - **Push Clothing**  
@@ -143,64 +105,31 @@
 - **PD State Command**  
 - **Clothing Approvals**
 
-### **Ploo**  
-- **Clothing Team Assistant**  
-- **Gang Coordinator**
-
-### **Kenny**  
-- **Makes EMS and PD Clothing**  
-- **PD State Command**  
-- **Can Sell Houses**
-
 ---
 
 ## #Real-estate  
 ### **Dev Loc**  
 - **Head of Real-estate**  
-- **Confirms 1of1's**  
-- **Tunes Cars**
-
-### **Noah**  
+### **Noah** 
 - **Real-estate Agent**
 
 ### **Marc**  
 - **Real-estate Agent**  
-- **Business Team**
-
 ### **Sam**  
 - **Real-estate Agent**  
-- **Gun Dev Trainee**
-
-### **Dog**  
+### **Sylvester**  
 - **Real-estate Agent**  
-- **Ticket Team**
-
 ### **Soph**  
 - **Real-estate Agent**  
-- **Ticket Team**
 
 ---
 
 ## #Event  
-### **Frosty**  
+### **Lua**  
 - **Head of Event Team**
 
-### **Draco**  
+### **Tav**  
 - **Assistant Head of Event Team**
-
-### **Griffa**  
-- **Event Team**  
-- **PD**  
-- **Test Server access**
-
-### **Lauren**  
-- **Event Team**  
-- **PD High Command**  
-- **Business Team**  
-- **Ticket Team**
-
-### **Lua**  
-- **Event Team**
 
 ---
 
@@ -210,16 +139,17 @@
 
 ### **Rue**  
 - **Head of the Business Team**
-
+### **Sylvester**  
+- **Business Team**
+### **Sam**  
+- **Business Team**
+### **Wade**  
+- **Business Team**
 ### **Marc**  
-- **Real-estate Agent**  
-- **Business Team Coordinator**
+  - **Business Team**
 
 ### **Lauren**  
-- **Business Coordinator**  
-- **Event Team**  
-- **PD High Command**  
-- **Ticket Team**
+- **Business Team**  
 
 ---
 
@@ -227,20 +157,12 @@
 ### **Maurice**  
 - **Lead Gang Coordinator**
 
-### **Ploo**  
+### **Rue**  
 - **Second Gang Coordinator**  
-- **Custom Clothing**  
-- **Push Clothing**  
-- **Push Guns**  
-- **Tune Guns**
 
-### **Suga Titties**  
+### **Liz**  
 - **Second Gang Coordinator**  
-- **Gun Team**
 
-### **Frosty**  
-- **Gang Godfather**  
-- **Head of Event Team**
 
 ---
 
@@ -251,11 +173,6 @@
 - **Event Team**  
 - **Business Coordinator**  
 - **PD High Command**
-
-### **Dog**  
-- **Can answer 99% of ticket questions**  
-- **Real-estate Agent**
-
 ### **Soph**  
 - **Ticket Team**
 
@@ -268,35 +185,31 @@
 ---
 
 ## #EMS  
-### **Dee**  
-- **EMS Medical Director (Second in Command)**
 
 ### **Brian**  
 - **EMS High Command**
 
 ### **Noah**  
 - **EMS High Command**  
-- **Photoshop**  
-- **Can Make Item Images**  
-- **Real-estate Agent**
+
 
 ---
 
 ## #PD  
-### **Yuki**  
-- **PD Assistant Commissioner**
 
-### **Kenny**  
+### **Bobby**  
 - **PD High Command**
-
 ### **Lauren**  
 - **PD High Command**
 
-### **Griffa**  
-- **PD**
 
 ---
 
 ## #DOJ  
-### **Dez**  
-- **DOJ**
+### **Bobby**  
+- **DOJ Relations//New Firm**
+
+### **Sylvester**  
+- **DOJ Relations//Newfirm**
+
+

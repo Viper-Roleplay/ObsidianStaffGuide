@@ -1,9 +1,8 @@
 #Clothing #ClothingTicket #ClothingTeam 
 # 🌟 **MEET THE TEAM** 🌟
 
-- **Merlin**: Clothing Team Dev _(also stinky)_
-- **Ploo**: Clothing Team
-- **Kenny**: PD/EMS Clothing, Clothing Team Assistant
+- **Bobby**: Clothing Team Dev
+
 
 ---
 # **Clothing Ticket Process**
@@ -18,8 +17,8 @@
         Ask the player for a photo of the clothing/chain for approval.
     - **If they want our Clothing Team to create it**:  
         There is an additional fee to the creator.
-        - Send the ticket to **Merlin** or link it in his tickets so he can discuss pricing and details with the player.
-        - **Merlin’s Channel**: [🧙・𝐌𝐞𝐫𝐥𝐢𝐧](https://discord.com/channels/948070993518288936/1133384852025126912)
+        - Send the ticket to **Bobby** or link it in his tickets so he can discuss pricing and details with the player.
+        - **Bobby’s Channel**: [🧙・Bobby](https://discord.com/channels/948070993518288936/1129231942206881793)
 
 ---
 ## **Clothing Tickets**

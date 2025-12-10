@@ -7,6 +7,9 @@
 **Rue** — Head of Business Team
 **Marc** — Business Coordinator
 **Lauren** — Business Coordinator
+**Sylvester** — Business Coordinator
+**Sam** — Business Coordinator
+**Wade** — Business Coordinator
 
 ---
 

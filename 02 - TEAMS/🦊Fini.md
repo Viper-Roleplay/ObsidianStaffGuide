@@ -1,9 +1,9 @@
 # 🌟 Meet the Team 🌟
 #Fini #Ban #Bans
-### 👤 Brooke  
+### 👤 Brian/Bobby  
 *Role:* Manages whitelists, AC bans, and AC unbans  
 
-### 👤 Jaxson  
+### 👤 Staff With Powers  
 *Role:* Oversees exploits, dupers, and surveillance  
 
 ---

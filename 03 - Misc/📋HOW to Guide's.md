@@ -86,19 +86,19 @@ To give a staff member the **Battlepass** or when **High Command** instructs you
 
 🔑 **To grant the Battlepass:**
 
-/setbattlepasspremium (ID) (1)
+/bpgivepremium (ID)
 
-❌ **To undo this (remove the Battlepass):**
+❌ **To Open Admin for BattlePass:**
 
-/setbattlepasspremium (ID) (0)
+/bpadmin(Player ID)
 
-![[Pasted image 20250310143103.png]]
+
 
 ### **To Give Battlepass Levels (After Confirming Payment)**
 
 📝 **Confirm payment first, then** to give someone Battlepass XP, use:
 
-/addbattlepassxp (ID) (45000)
+/bpgivexp (PlayerID)(Amount Of XP)
 
 ---
 ## 🚤 **How to Find a Player Boat When It 'Poofs'**

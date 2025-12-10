@@ -1,6 +1,6 @@
 # ComputerHelp #CleanUpGuide
 #ComputerHelp 
-## Liam's Clean-Up Guide
+## Clean-Up Guide
 
 ### Easiest Things to Do
 

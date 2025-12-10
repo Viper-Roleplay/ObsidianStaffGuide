@@ -1,4 +1,4 @@
-#Developers #DeveloperTicket #DevTrello
+#Developers #DeveloperTicket #DevPlanka
 
 
 ## 🖥️ **Meet the Team!**
@@ -15,10 +15,6 @@
 - **Xora**:  
   - **Role**: **Main Heist Dev**, **Gang Dev**  
 
-- **Heath**:  
-  - **Role**: **Graphic Design**  
-  - **Specialty**: **Can Do UI and UX**, **Can answer most questions about menu related issues (pausemenu, admin menu, etc.)**
-
 - **Cowboy Frank**:  
   - **Role**: **EMS Dev**  
   - **Specialty**: **Restart and Delay Restart for Main**, **Can Push to Main**, **Can Allow Access**, **Can Do UI**, **JavaScript**  
@@ -33,17 +29,11 @@
   - **Role**: **Dev Assistant, Stashes, Learning more**
 
 ---
-## **📋 TRELLO**
-#DevTrello #TrelloGuide 
+## **📋 Planka**
+#DevPlanka #PlankaGuide 
 
-Access to **Trello** will be granted to certain staff members.  
-📝 [Link to Trello](https://trello.com/b/CwyIDn1n/viper-roleplay)
-## **Trello Walkthrough:**
-<iframe src="https://www.loom.com/embed/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8" 
-        frameborder="0" 
-        allowfullscreen 
-        width="640" 
-        height="360"></iframe>
+Access to **Planka** will be granted to certain staff members.  
+📝 [Link to Planka](https://planka.viper-roleplay.com/)
 
 ---
 
@@ -69,8 +59,8 @@ When someone in the city has a mechanical issue with a script, they will open a 
 2. **Report only verified issues.**  
    - If the issue is reproducible and clearly broken, escalate it to the dev team with all gathered information.  
 
-3. **Log the issue in Trello.**  
-   - Create a Trello card for the issue and **link the ticket** for reference.  
+1. **Log the issue in Planka.**  
+   - Create a Planka card for the issue and **link the ticket** for reference.  
    - Move the ticket to the **Dev Section**.  
    - Ensure the ticket remains **open** until the dev team confirms it can be closed.  
 
@@ -107,10 +97,7 @@ For anyone wondering how to do things like **garages**, **stashes**, or **DJ scr
 
 ✨ Here's the video:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BYL3ofeqDSg?si=ANguMKVfhn9re_q6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### 🔑 **Important Notes**:
 
-- Most of this info goes into **Liam’s notes** on Monday, unless told otherwise by **Frank** 🤠 or **Cici**.
-- If you don’t have access to Monday, let **Brian** know!
 
 ### For **stashes** and **DJ scripts**:
 

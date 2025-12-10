@@ -2,13 +2,13 @@
 # 🌟 MEET THE TEAM 🌟  
 
 ## 🚗 Car Team Leads  
-- **Creamy Frank** – *Head of Car Team*  
+- **Carlos ** – *Head of Car Team*  
   - Car Modeling 
   - Promos  
   - Can push vehicles
   - Tunes occasionally  
 
-- **Tyler** – *Assistant Head of Car Team*  
+- **Kane** – *Assistant Head of Car Team*  
   - Liveries 
   - Tuning occasionally  
   - PD/EMS Cars  
@@ -16,13 +16,11 @@
   - Can answer all car team questions  
 
 ## 🔧 Tuning & Modeling  
-- **Phil** – *Tuning, Some modeling (learning more)*  
-- **Carlos Way** – *Tuning, Some modeling (learning more)*  
-- **Meewel** – *Tuning, Some modeling (learning more), Can push vehicles*  
-- **Tobey** – *Tuning*  
+- **Ethin** – *Tuning, Some modeling (learning more)*  
+
 
 ## ✅ Car Approvals  
-- **Dev Loc** – *1of1 Approval (all other car team members can also do approvals)*  
+- **Ethin** – *1of1 Approvals must be sent to Ethin before being brought into city*  
 
 ---
 # 🏎️ Vehicle tickets & Organization  

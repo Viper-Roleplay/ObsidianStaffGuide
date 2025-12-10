@@ -5,11 +5,13 @@
 
 ## 🌟 **Meet the Team**🌟
 
-- **Frosty** – Event Manager
-- **Draco** – Event Team
-- **Griffa** – Event Team
+- **Lua** – Event Team Manager
+- **Noah** – Event Team
 - **Lauren** – Event Team
-- **Lua** – Event Team
+- **Sylvester** – Event Team
+- **Tav**- Event Team
+- **Griffa**- Event Team
+
 
 ---
 ## ⚙️ **Setting Up /TPTOEVENT**⚙️

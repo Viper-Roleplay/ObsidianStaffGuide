@@ -1,24 +1,24 @@
 
 # 📝 **How to Get Access to Trello & Logs**
-#TrelloSetUp #TrelloGuide #DevTrello
+#PlankaSetUp #PlankaGuide #DevPlanka
 
-## 🔹 **Trello Access**  
+## 🔹 **Planka Access**  
 To get access to Trello, follow these steps:
 
-1. **Trello URL**  
+1. **Planka URL**  
    - Access the Trello board here:  
-     [**Trello Viper Roleplay Board**](https://trello.com/b/CwyIDn1n/viper-roleplay)
+     [**PlankaViper Roleplay Board**](https://planka.viper-roleplay.com/)
 
 2. **Enter the UN/PW**  
-   - Username: **viperroleplay2024@gmail.com**
+   - You will need to reach out to **CICI** to have him make an account for you
 
 3. **Google Authenticator**  
    - Once you log in, you’ll be prompted for a **Google Authenticator Code**.  
    - You must **reach out to me personally** to get this code set up. Please contact me **1-on-1** to proceed.
 
-# How to Use Trello
+# How to Use Planka
 
-The goal of a Trello note is to make a **Detailed** note.
+The goal of a Planka note is to make a **Detailed** note.
 
 ### Steps:
 
@@ -42,8 +42,6 @@ The goal of a Trello note is to make a **Detailed** note.
      Add your name so we can contact you if we need additional details or have questions.
    - **Attach Files or Pictures**:  
      Attach any files or images if necessary to explain the job or issue more clearly.
-### Video Guide to trello
-[Watch the video tutorial here](https://www.loom.com/share/2cd63e145ab74302bb0553aeba58bdcb?sid=1cc58ca6-af97-486e-a712-530ce07721e8)
 
 If you have any issues, feel free to reach out for help! 🌟
 
@@ -53,11 +51,11 @@ If you have any issues, feel free to reach out for help! 🌟
  #Logs #LogAccess  
 
 ### **Log Access Link:**  
-[Click here to access logs](http://23.26.121.106:8080/login)  
+[Click here to access logs](https://newlogs.viper-roleplay.com/app/login)  
 
 ### **How to Get Access:**  
 1. Choose your own **login** and **password**. 
-2. Send a **DM** to **Liz** or **Alter** or **Cici** to be set up in the system.  
+2. Send a **DM** to **CICI** to be set up in the system.  
 
 ✅ Once approved, you’ll be able to log in and view logs as needed.  
 

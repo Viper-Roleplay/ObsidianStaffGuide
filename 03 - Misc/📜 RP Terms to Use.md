@@ -31,4 +31,4 @@
 - **Right brain** = Right-click (usually as advice to re-enter the game after alt-tabbing to avoid punching nearby players)
 
 ### **Miscellaneous**
-- **Meow** = Merlin being stupid
+- **Meow** = Noah being stupid

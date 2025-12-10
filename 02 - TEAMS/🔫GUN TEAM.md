@@ -1,8 +1,7 @@
 #Gun #GunTicket #GunTrello #GunTeam 
 # 🌟 MEET THE TEAM 🌟
 ###### **Brian** — *Lead Gun Developer* 
-###### **Suga** — *Gun Developer* 
-###### **Sam — *Gun Developer Trainee* 
+###### Gracie — *Gun Tuner/Trainee* 
 
 --- 
 
