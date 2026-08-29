@@ -1,4 +1,4 @@
-If you need a planka account please message Cici, Bobby or Xora
+If you need a planka account please message Cici or Bobby
 
  1. URL - [https://planka.viper-roleplay.com/](https://planka.viper-roleplay.com/ "https://planka.viper-roleplay.com/")
 2. Login /w Information in the initial fields

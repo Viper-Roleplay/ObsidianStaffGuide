@@ -3,13 +3,9 @@
 # 🌟 Meet the Team 🌟 
 
 **Brian** — Head of Business Team
-**Liz** — Head of Business Team
 **Rue** — Head of Business Team
-**Marc** — Business Coordinator
-**Lauren** — Business Coordinator
 **Sylvester** — Business Coordinator
-**Sam** — Business Coordinator
-**Wade** — Business Coordinator
+**Scott** — Business Coordinator
 
 ---
 

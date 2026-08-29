@@ -5,12 +5,8 @@
 
 ## 🌟 **Meet the Team**🌟
 
-- **Lua** – Event Team Manager
 - **Noah** – Event Team
-- **Lauren** – Event Team
 - **Sylvester** – Event Team
-- **Tav**- Event Team
-- **Griffa**- Event Team
 
 
 ---

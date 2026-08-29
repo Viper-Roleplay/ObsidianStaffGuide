@@ -6,7 +6,6 @@
 
 - **Maurice** – _Papa Gang Coordinator_ 
 - **Rue** – _Gang Coordinator_
-- **Liz** – _Gang Coordinator_
 
 ---
 

@@ -12,9 +12,6 @@
 - **Bobby**:  
   - **Role**: Dev Coordinator, Configs Master, Economy Man, **PD State Command**  
 
-- **Xora**:  
-  - **Role**: **Main Heist Dev**, **Gang Dev**  
-
 - **Cowboy Frank**:  
   - **Role**: **EMS Dev**  
   - **Specialty**: **Restart and Delay Restart for Main**, **Can Push to Main**, **Can Allow Access**, **Can Do UI**, **JavaScript**  

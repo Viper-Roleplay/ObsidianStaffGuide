@@ -1,4 +1,4 @@
-#Gun #GunTicket #GunTrello #GunTeam 
+#Gun #GunTicket #GunPlanka #GunTeam 
 # 🌟 MEET THE TEAM 🌟
 ###### **Brian** — *Lead Gun Developer* 
 ###### Gracie — *Gun Tuner/Trainee* 
@@ -11,24 +11,24 @@
 2️⃣ **Ask for a photo of the gun in their pocket** *(*If you have powers, look up the spawncode as well!*)* 
 3️⃣ **For complex issues** *(like texture issues or recoil)*, **ask for a clip of the issue.** 
 
-📌 **Once you have all the necessary info, take the ticket to the Gun Team Trello.** 
+📌 **Once you have all the necessary info, take the ticket to the Gun Team Planka board.** 
 
 --- 
 
-# 🔖 Gun Trello
+# 🔖 Gun Planka
 
-Gun Trello is used to track all gun issues for the gun team to handle tickets more effectively. The following info is needed before making a Trello note:
+Gun Planka board is used to track all gun issues for the gun team to handle tickets more effectively. The following info is needed before making a Planka note:
 
 🔹 **Gun Name:** If you're a mod+, fly in-city and get the spawncode. If unavailable, get a photo of the gun in the player’s pocket.  
 🔹 **Gun Issue:** Determine the issue (e.g., texture issue, tuning issue—recoil/suppressor, missing item photo).
 🔹 **Use the Correct Note Template:** Make sure you fill out EVERY QUESTION. This includes your name so we can ask questions when needed! Move the template the corresponding section once created.
-- **Broken Gun:** Guns that don’t pull out or crash players when pulled. If a gun crashes players, report it via DMs IMMEDIATELY and add it to Trello.
+- **Broken Gun:** Guns that don’t pull out or crash players when pulled. If a gun crashes players, report it via DMs IMMEDIATELY and add it to Planka.
     
 - **Gun Tunes:** Guns that aren't performing properly (e.g., no damage, no recoil, or require recoil updates).
     
 - **Needs Image:** A missing weapon spawncode. (This should be visible in an image of the gun in their pocket.)
     
-- **New Guns:** New _1of1_, _gang guns_, _2of2_, etc. These must be pre-approved by the gun team and **paid for** before being added to Trello.
+- **New Guns:** New _1of1_, _gang guns_, _2of2_, etc. These must be pre-approved by the gun team and **paid for** before being added to Planka.
 
 ---
 ## 🚨 Gun Duping Warning 🚨

@@ -1,12 +1,12 @@
 
-# 📝 **How to Get Access to Trello & Logs**
+# 📝 **How to Get Access to Planka & Logs**
 #PlankaSetUp #PlankaGuide #DevPlanka
 
 ## 🔹 **Planka Access**  
-To get access to Trello, follow these steps:
+To get access to Planka, follow these steps:
 
 1. **Planka URL**  
-   - Access the Trello board here:  
+   - Access the Planka board here:  
      [**PlankaViper Roleplay Board**](https://planka.viper-roleplay.com/)
 
 2. **Enter the UN/PW**  

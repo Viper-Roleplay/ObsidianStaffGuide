@@ -40,7 +40,7 @@ As **Staff Support**, you now have the ability to **give items** and **manage in
 1. Take **screenshots** of:  
    - Your **cash & bank balance**.  
    - All **stashes & inventories**.  
-2. Send these screenshots to **Liz** for safekeeping.  
+2. Send these screenshots to **Cici** for safekeeping.  
 
 📌 **Why?**  
 If you ever decide to leave staff, your documented **items & money** will be **returned**. However, anything obtained **after this point** will **not** be restored.  

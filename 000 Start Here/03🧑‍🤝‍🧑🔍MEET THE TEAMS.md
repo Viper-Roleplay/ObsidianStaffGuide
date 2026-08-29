@@ -26,9 +26,13 @@
 - **Push for Main**  
 - **PD State Command**
 
-### **Xora**  
-- **Main Heist Dev**  
-- **Gang Dev**
+### **Ricky**  
+- **Lead Mapper**
+
+### **Alter**  
+- **Lead Modeler**  
+- **Discord Bot Master**  
+- **Updates Log Website**
 
 ### **Ash**  
 - **Dev Tickets**  
@@ -43,31 +47,25 @@
 - **Anticheat (Fix Modders Spawning Vehicles/Objects, Anticheat False Bans)**  
 - **Helps FINI**  
 
-
 ---
 
 ## #Car  #CarTeam 
+### **Creamy Frank**  
+- **Head of Car Team**  
+
 ### **Carlos**  
-- **Car Team Head**  
+- **Car Team**  
 - **Weekly Promo**  
 - **Models Cars (Can Add Models, Change Features, Add PD/EMS Lights, Props/Guns, Tires)**  
 - **Admin Car / Push Cars to Main Server**  
 - **Can Tune if Needed**
 
 ### **Kane**  
-- **Assistant Head of Car Team**  
+- **Car Team**  
 - **Anything Car-Related**  
 - **Push Cars and Admin Car**  
 - **Car Model Edits, Adding/Removing Features**  
-- **Creator of Viper’s PD and EMS Cars**  
-- **2nd in Command of Car Team**  
-- **PD State Command**
-
-### **Ethin**  
-- **Car Tuner**  
-- **Learning Modeling/More**
--  **1of1 Approval Help**
-
+- **Creator of Viper’s PD and EMS Cars**
 
 ---
 
@@ -81,7 +79,7 @@
 - **Tattoos**
 
 #### **If Needed**  
-- **Can Do Photoshop (Resize/Recolor)
+- **Can Do Photoshop (Resize/Recolor)**  
 - **Can Whitelist to Anticheat**  
 - **Can Unban from Anticheat**  
 - **Can Optimize Cars**  
@@ -89,14 +87,13 @@
 - **Can Ban**
 
 ### **Gracie**  
-- **Gun Team Trainee**  
-- **Real-estate Team**
+- **Gun Team Trainee**
 
 ---
 
 ## #Clothing  #ClothingTeam
 ### **Bobby**  
-- **The Lead Clothing Devs**  
+- **Lead Clothing Dev**  
 - **Can Restart Main**  
 - **Custom Chains/Clothing**  
 - **Push Clothing**  
@@ -108,48 +105,39 @@
 ---
 
 ## #Real-estate  
-### **Dev Loc**  
+### **Dev**  
 - **Head of Real-estate**  
-### **Noah** 
+
+### **Noah**  
 - **Real-estate Agent**
 
-### **Marc**  
-- **Real-estate Agent**  
-### **Sam**  
-- **Real-estate Agent**  
 ### **Sylvester**  
 - **Real-estate Agent**  
-### **Soph**  
-- **Real-estate Agent**  
+
 
 ---
 
 ## #Event  
-### **Lua**  
-- **Head of Event Team**
+### **Noah**  
+- **Event Team**
 
-### **Tav**  
-- **Assistant Head of Event Team**
+### **Sylvester**  
+- **Event Team**
 
 ---
 
 ## #Business  
-### **Liz**  
+### **Brian**  
 - **Head of the Business Team**
 
 ### **Rue**  
 - **Head of the Business Team**
+
 ### **Sylvester**  
 - **Business Team**
-### **Sam**  
-- **Business Team**
-### **Wade**  
-- **Business Team**
-### **Marc**  
-  - **Business Team**
 
-### **Lauren**  
-- **Business Team**  
+### **Scott**  
+- **Business Team**
 
 ---
 
@@ -160,26 +148,17 @@
 ### **Rue**  
 - **Second Gang Coordinator**  
 
-### **Liz**  
-- **Second Gang Coordinator**  
-
-
 ---
 
 ## #TicketTeam  
 
-### **Lauren**  
-- **Can answer 99% of ticket questions**  
-- **Event Team**  
-- **Business Coordinator**  
-- **PD High Command**
-### **Soph**  
+### **Sylvester**  
 - **Ticket Team**
 
-### **Wade**  
+### **Noah**  
 - **Ticket Team**
 
-### **Joey**  
+### **Kane**  
 - **Ticket Team**
 
 ---
@@ -199,9 +178,9 @@
 
 ### **Bobby**  
 - **PD High Command**
-### **Lauren**  
-- **PD High Command**
 
+### **Brian**  
+- **PD High Command**
 
 ---
 
@@ -211,5 +190,3 @@
 
 ### **Sylvester**  
 - **DOJ Relations//Newfirm**
-
-
