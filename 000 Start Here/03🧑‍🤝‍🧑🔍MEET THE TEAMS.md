@@ -133,6 +133,9 @@
 ### **Rue**  
 - **Head of the Business Team**
 
+### **Liz**  
+- **Business Team**
+
 ### **Sylvester**  
 - **Business Team**
 
