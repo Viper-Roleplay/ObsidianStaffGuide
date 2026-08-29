@@ -27,6 +27,38 @@ Access to **Planka** will be granted to certain staff members.
 
 ---
 
+## 🤖 Using Viper Assistant to Create Planka Cards
+#ViperAssistant #PlankaGuide 
+
+The fastest and cleanest way to log dev work is to **have Viper Assistant create the Planka card for you**. Instead of wrestling with templates, just tell me what you need and I'll do the rest.
+
+### ✅ Why Use Me?
+- I fill in the **correct board, list, and template** automatically.
+- I make sure the **ticket link, requester, and description** are properly formatted.
+- I **ask clarifying questions** so the card is actually useful — not a vague one-liner the dev has to chase you about.
+
+### 🔁 How It Works
+1. **Tell me what you need** — e.g. *"create a Planka card for a firing bug in [script]"*.
+2. **I'll ask clarifying questions** before adding anything, covering things like:
+   - What **board/list** does this belong to? (if unclear)
+   - What **exactly** is broken vs. expected?
+   - Can you share a **clip / F8 screenshot / spawn codes**?
+   - Who is the **requester** and what's the **ticket link**?
+3. **You answer**, and I'll confirm a **summary** with you.
+4. **You approve**, and I create the card.
+
+### 📝 What a Good Card Needs
+The more detail you give me up front, the fewer questions I have to ask. A solid request includes:
+- **Title** — a clear, short description of the job/issue
+- **Ticket link** — so the dev can reference the player's report
+- **Description** — what's happening vs. what *should* happen
+- **Evidence** — clips, screenshots, F8 errors, spawn codes
+- **Your name** (Note Added By) — so the dev can reach out if they need more info
+
+> 💡 **Tip:** the goal is a card that takes **2–3 minutes** to action because the info is already there — not a card the dev has to re-investigate from scratch.
+
+---
+
 # 🎟️ Dev Tickets  
 #DeveloperTicket 
 
