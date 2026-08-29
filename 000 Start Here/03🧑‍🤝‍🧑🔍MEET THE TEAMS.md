@@ -12,14 +12,6 @@
 - **Restart and Delay Restart for Main**  
 - **IF NO ONE ELSE CAN HELP YOU AND CITY IS BURNING DM**
 
-### **Cowboy Frank**  
-- **EMS Dev**  
-- **Restart and Delay Restart for Main**  
-- **Can Push to Main**  
-- **Can Allow Access**  
-- **Can Do UI**  
-- **JavaScript**
-
 ### **Scott**  
 - **Config**  
 - **Bobby's Assistant**  
@@ -28,11 +20,6 @@
 
 ### **Ricky**  
 - **Lead Mapper**
-
-### **Alter**  
-- **Lead Modeler**  
-- **Discord Bot Master**  
-- **Updates Log Website**
 
 ### **Ash**  
 - **Dev Tickets**  

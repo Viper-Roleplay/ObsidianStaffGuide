@@ -12,15 +12,8 @@
 - **Bobby**:  
   - **Role**: Dev Coordinator, Configs Master, Economy Man, **PD State Command**  
 
-- **Cowboy Frank**:  
-  - **Role**: **EMS Dev**  
-  - **Specialty**: **Restart and Delay Restart for Main**, **Can Push to Main**, **Can Allow Access**, **Can Do UI**, **JavaScript**  
-
 - **Scott**:  
   - **Role**: **Config**, **Bobby's Assistant**, **Push for Main**, **PD State Command**  
-
-- **Alter**:  
-  - **Role**: **Modeling**, **Discord Bot Master**, **Updates Log Website**  
 
 - **Ash**:  
   - **Role**: **Dev Assistant, Stashes, Learning more**

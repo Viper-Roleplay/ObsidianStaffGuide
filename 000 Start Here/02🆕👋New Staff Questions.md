@@ -64,7 +64,7 @@ If you have any issues, feel free to reach out for help! 🌟
 # *How Do I Use Logs?*  
 #Logs #StaffGuide  
 
-Using logs is simple once you understand their functions. As a staff member, you’ll gain access to logs—just message **Alter** for a login, and he’ll get you set up. Once logged in, follow these steps to investigate a robbery.  
+Using logs is simple once you understand their functions. As a staff member, you’ll gain access to logs—just message **Cici** for a login, and he’ll get you set up. Once logged in, follow these steps to investigate a robbery.  
 
 ---
 
